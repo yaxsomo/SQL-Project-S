@@ -1,0 +1,1016 @@
+ProductId,Name,CreationDate,Suppliers,Category,CommandId,Total,Rating,UserId,InvoiceId,InvoiceDate,Continent
+631,Shoes,1555951336788,Oberbrunner LLC Group,Grocery,1,12320€,0.86,504,234,1569981548120,Europe
+631,Shoes,1555951336788,Oberbrunner LLC Group,Grocery,1,12320€,0.86,504,652,1605178091217,Asia
+631,Shoes,1555951336788,Oberbrunner LLC Group,Grocery,1,12320€,0.63,629,214,1426822235368,Europe
+631,Shoes,1555951336788,Oberbrunner LLC Group,Grocery,1,12320€,0.63,629,188,1451186095981,Asia
+631,Shoes,1555951336788,Oberbrunner LLC Group,Grocery,1,12320€,4.17,880,819,1605172780933,Europe
+67,Sausages,1614155331254,Crist and Sons Group,Movies,3,1794€,1.28,400,53,1392827042174,America
+67,Sausages,1614155331254,Crist and Sons Group,Movies,3,1794€,1.28,400,534,1525942541745,Africa
+67,Sausages,1614155331254,Crist and Sons Group,Movies,3,1794€,1.28,400,439,1592559997816,Europe
+67,Sausages,1614155331254,Crist and Sons Group,Movies,3,1794€,2.44,876,742,1511433674279,America
+67,Sausages,1614155331254,Crist and Sons Group,Movies,3,1794€,2.44,876,229,1578732345807,Europe
+67,Sausages,1614155331254,Crist and Sons Group,Movies,3,1794€,2.44,876,144,1620372004984,Oceania
+378,Pizza,1449972360904,"Walsh, Bradtke and Roob Group",Jewelery,7,392€,4.84,227,477,1483461450289,America
+378,Pizza,1449972360904,"Walsh, Bradtke and Roob Group",Jewelery,7,392€,4.84,227,169,1603185314935,America
+378,Pizza,1449972360904,"Walsh, Bradtke and Roob Group",Jewelery,7,392€,4.84,227,968,1649349201432,Africa
+378,Pizza,1449972360904,"Walsh, Bradtke and Roob Group",Jewelery,7,392€,4.26,364,94,1464556217394,Asia
+469,Bike,1605393797037,Feil - Kovacek Group,Automotive,12,2632€,4.64,147,39,1444381593363,Africa
+897,Pizza,1643552207971,"Grimes, Grady and Friesen and Sons",Grocery,13,2720€,3.27,219,432,1418219149510,America
+399,Bacon,1578003415268,"Torp, Schaden and Bauch and Sons",Books,16,1716€,0.14,480,56,1644906391200,America
+399,Bacon,1578003415268,"Torp, Schaden and Bauch and Sons",Books,16,1716€,2.35,522,460,1560383773373,America
+631,Shoes,1555951336788,Oberbrunner LLC Group,Grocery,23,745€,0.86,504,234,1569981548120,Europe
+631,Shoes,1555951336788,Oberbrunner LLC Group,Grocery,23,745€,0.86,504,652,1605178091217,Asia
+631,Shoes,1555951336788,Oberbrunner LLC Group,Grocery,23,745€,0.63,629,214,1426822235368,Europe
+631,Shoes,1555951336788,Oberbrunner LLC Group,Grocery,23,745€,0.63,629,188,1451186095981,Asia
+631,Shoes,1555951336788,Oberbrunner LLC Group,Grocery,23,745€,4.17,880,819,1605172780933,Europe
+508,Sausages,1546277948343,Ernser Group Group,Outdoors,24,7315€,4.08,353,952,1481819042091,Africa
+508,Sausages,1546277948343,Ernser Group Group,Outdoors,24,7315€,4.08,353,802,1587399974465,Oceania
+508,Sausages,1546277948343,Ernser Group Group,Outdoors,24,7315€,0.32,881,138,1396896467075,America
+508,Sausages,1546277948343,Ernser Group Group,Outdoors,24,7315€,0.32,881,375,1477306364333,Africa
+517,Tuna,1517041307357,Carroll and Sons Inc,Home,26,13206€,2.73,462,4,1428567872734,Africa
+913,Shoes,1442120458449,Price Inc Group,Games,28,6384€,0.79,38,426,1468470680315,Africa
+549,Salad,1616404795868,"Zieme, O'Reilly and Shanahan and Sons",Industrial,30,480€,4.46,169,168,1466460586635,Africa
+549,Salad,1616404795868,"Zieme, O'Reilly and Shanahan and Sons",Industrial,30,480€,4.29,263,96,1446488182663,Africa
+549,Salad,1616404795868,"Zieme, O'Reilly and Shanahan and Sons",Industrial,30,480€,4.29,263,165,1478045413949,America
+653,Cheese,1449914754450,"Ferry, Schmeler and Huels LLC",Games,31,9581€,3.53,90,518,1489893637075,Asia
+653,Cheese,1449914754450,"Ferry, Schmeler and Huels LLC",Games,31,9581€,2.84,93,725,1412423649931,America
+873,Shirt,1553403916408,Schneider Inc LLC,Garden,39,10250€,0.49,782,741,1450227290075,America
+809,Fish,1611912462255,"Cole, Ebert and Prosacco LLC",Home,40,5311€,1.02,750,852,1523359990831,America
+177,Tuna,1600252314487,Ward - Turner Group,Movies,42,3534€,0.9,653,436,1574803518250,America
+524,Keyboard,1519383549347,"Cronin, Orn and Baumbach and Sons",Computers,44,9646€,4.37,185,140,1504591889279,America
+524,Keyboard,1519383549347,"Cronin, Orn and Baumbach and Sons",Computers,44,9646€,4.57,644,69,1550211242800,America
+702,Shirt,1644604917234,"Hoeger, Donnelly and Runolfsson LLC",Industrial,45,8250€,5.0,126,278,1410692980886,Oceania
+702,Shirt,1644604917234,"Hoeger, Donnelly and Runolfsson LLC",Industrial,45,8250€,5.0,126,450,1430690902148,America
+202,Towels,1568340878950,Schoen - Pouros Inc,Grocery,48,7128€,4.81,266,429,1406616228605,Europe
+869,Bacon,1617538873325,Keeling - Kunde LLC,Home,56,4851€,1.86,125,267,1455752474508,Africa
+869,Bacon,1617538873325,Keeling - Kunde LLC,Home,56,4851€,1.86,125,119,1540734964176,Europe
+869,Bacon,1617538873325,Keeling - Kunde LLC,Home,56,4851€,1.86,125,17,1636344672218,Asia
+326,Towels,1446409226761,Thiel - Medhurst and Sons,Movies,57,3120€,3.78,444,251,1643160383851,Africa
+326,Towels,1446409226761,Thiel - Medhurst and Sons,Movies,57,3120€,4.35,880,819,1605172780933,Europe
+883,Bacon,1585922083111,Hettinger - Turcotte Group,Jewelery,65,5194€,3.07,692,380,1579206851356,Africa
+883,Bacon,1585922083111,Hettinger - Turcotte Group,Jewelery,65,5194€,3.07,692,499,1638252874688,Asia
+467,Pizza,1520192983400,Rolfson and Sons and Sons,Industrial,66,2478€,1.78,816,875,1441953783149,Europe
+652,Gloves,1570772388500,Luettgen - Hermann and Sons,Health,68,3886€,2.98,16,180,1608225069053,Europe
+592,Chips,1612582344718,"Schumm, Greenfelder and Ruecker Group",Toys,72,7200€,2.39,288,16,1453925830179,Asia
+592,Chips,1612582344718,"Schumm, Greenfelder and Ruecker Group",Toys,72,7200€,2.39,288,55,1566556422423,America
+437,Soap,1443364979244,"Homenick, Durgan and Sauer and Sons",Clothing,74,2040€,3.01,735,807,1481076665018,Oceania
+437,Soap,1443364979244,"Homenick, Durgan and Sauer and Sons",Clothing,74,2040€,3.01,735,759,1613347349778,America
+483,Mouse,1480919073200,O'Connell - Ullrich Inc,Baby,77,660€,1.7,299,473,1437094106254,Asia
+483,Mouse,1480919073200,O'Connell - Ullrich Inc,Baby,77,660€,1.7,299,792,1566434232904,Oceania
+736,Hat,1523259841647,DuBuque - Roob Group,Music,82,3360€,3.3,923,31,1601615057800,Africa
+445,Computer,1467269846282,Kirlin - Brakus Inc,Jewelery,84,5586€,2.18,251,760,1402472667854,Asia
+445,Computer,1467269846282,Kirlin - Brakus Inc,Jewelery,84,5586€,2.18,251,795,1512023123112,Europe
+445,Computer,1467269846282,Kirlin - Brakus Inc,Jewelery,84,5586€,2.18,251,400,1617004201919,Asia
+62,Car,1561545120489,Kessler and Sons LLC,Home,87,7030€,0.55,271,116,1513341497771,America
+62,Car,1561545120489,Kessler and Sons LLC,Home,87,7030€,3.13,524,599,1476035330550,Europe
+215,Bike,1443887188676,"Padberg, Harvey and Kutch Inc",Music,89,441€,1.18,117,552,1483508947884,Asia
+215,Bike,1443887188676,"Padberg, Harvey and Kutch Inc",Music,89,441€,1.18,117,934,1500882266099,Africa
+215,Bike,1443887188676,"Padberg, Harvey and Kutch Inc",Music,89,441€,1.18,117,109,1577382698443,Africa
+262,Shoes,1436735726696,"Roob, Parker and Tremblay Group",Movies,90,352€,4.71,895,465,1494861355359,Africa
+262,Shoes,1436735726696,"Roob, Parker and Tremblay Group",Movies,90,352€,4.71,895,762,1548436417139,Oceania
+878,Tuna,1563086389804,"Kirlin, Rogahn and Stamm Inc",Music,93,1802€,3.0,80,673,1420620735145,Africa
+878,Tuna,1563086389804,"Kirlin, Rogahn and Stamm Inc",Music,93,1802€,3.0,80,768,1583511656019,Europe
+878,Tuna,1563086389804,"Kirlin, Rogahn and Stamm Inc",Music,93,1802€,3.92,422,885,1496224385553,Oceania
+878,Tuna,1563086389804,"Kirlin, Rogahn and Stamm Inc",Music,93,1802€,3.92,422,201,1599843633642,Oceania
+688,Shoes,1399183326546,"Schimmel, Schmitt and Considine and Sons",Garden,97,1456€,4.04,489,502,1583228858888,Europe
+76,Pizza,1593442977678,"Lindgren, Howe and Vandervort and Sons",Movies,98,1935€,1.41,948,994,1445331826763,Oceania
+452,Table,1612418027123,Ferry Group Inc,Home,99,8673€,2.52,127,978,1413580482354,Asia
+452,Table,1612418027123,Ferry Group Inc,Home,99,8673€,2.52,127,411,1443488248787,Africa
+452,Table,1612418027123,Ferry Group Inc,Home,99,8673€,1.23,211,931,1407218205502,Oceania
+452,Table,1612418027123,Ferry Group Inc,Home,99,8673€,1.23,211,520,1495188865730,Europe
+557,Car,1482129503769,"Reinger, Heaney and Murphy Group",Outdoors,100,574€,0.6,743,918,1643390366616,Europe
+610,Hat,1603827930002,Fay Inc Inc,Automotive,102,7708€,0.59,695,309,1426733994042,America
+610,Hat,1603827930002,Fay Inc Inc,Automotive,102,7708€,0.59,695,600,1555362929977,Oceania
+707,Mouse,1523948237006,Koch and Sons Group,Sports,103,12015€,0.67,794,538,1541741831096,Europe
+556,Hat,1461316644490,"Blick, Witting and Morissette LLC",Movies,104,6572€,4.28,598,643,1454549597127,Asia
+556,Hat,1461316644490,"Blick, Witting and Morissette LLC",Movies,104,6572€,4.28,598,126,1611071073730,Asia
+201,Gloves,1557440395116,Champlin Group LLC,Movies,107,7600€,0.64,491,947,1493496279124,Europe
+969,Car,1646293345422,"Bergnaum, Russel and Nikolaus Group",Garden,108,7497€,3.06,120,185,1482796227856,Europe
+387,Car,1608540814151,Bradtke and Sons Group,Music,110,5160€,1.26,872,117,1478904324936,Africa
+603,Soap,1635353724215,"Williamson, Koepp and Prosacco LLC",Baby,113,2849€,2.43,19,141,1553869484609,Asia
+603,Soap,1635353724215,"Williamson, Koepp and Prosacco LLC",Baby,113,2849€,2.43,19,562,1560653886270,Asia
+982,Mouse,1407234459521,Gulgowski - Murray LLC,Health,115,1342€,1.48,35,935,1393627589241,Africa
+982,Mouse,1407234459521,Gulgowski - Murray LLC,Health,115,1342€,1.48,35,463,1616277830355,Europe
+572,Pizza,1428504796830,Bogisich Group Group,Beauty,116,4753€,4.48,585,692,1520034679888,America
+572,Pizza,1428504796830,Bogisich Group Group,Beauty,116,4753€,2.14,611,136,1618656907944,Europe
+930,Gloves,1440837945049,Leffler and Sons Group,Computers,117,384€,3.08,712,90,1411372309102,America
+33,Computer,1425226283967,"Mann, Harris and Kuhic Group",Computers,118,693€,3.22,863,279,1416371843743,Oceania
+33,Computer,1425226283967,"Mann, Harris and Kuhic Group",Computers,118,693€,3.22,863,307,1630548657687,Africa
+367,Chips,1639716802719,Schinner - Kshlerin Inc,Electronics,120,805€,0.82,361,324,1487552447510,America
+367,Chips,1639716802719,Schinner - Kshlerin Inc,Electronics,120,805€,0.82,361,559,1613721341119,Oceania
+723,Computer,1589366833121,Bailey LLC Inc,Health,121,11232€,0.72,578,301,1552054042380,Africa
+688,Shoes,1399183326546,"Schimmel, Schmitt and Considine and Sons",Garden,122,1760€,4.04,489,502,1583228858888,Europe
+481,Pizza,1595801001388,"Feil, Douglas and Jacobson LLC",Music,124,2516€,0.02,259,393,1466510744298,Asia
+481,Pizza,1595801001388,"Feil, Douglas and Jacobson LLC",Music,124,2516€,3.36,658,260,1561752540254,Africa
+126,Ball,1481426596356,Thiel - Schmeler LLC,Jewelery,126,6952€,4.15,789,675,1404443269723,Asia
+897,Pizza,1643552207971,"Grimes, Grady and Friesen and Sons",Grocery,127,3384€,3.27,219,432,1418219149510,America
+447,Bacon,1485712497211,"Weimann, Bins and Flatley LLC",Toys,129,7052€,2.65,492,305,1396935280790,America
+113,Fish,1564551580953,Harvey LLC and Sons,Health,132,2214€,2.23,511,767,1602526146974,Oceania
+461,Cheese,1393654964889,Jacobi - Kuphal and Sons,Baby,135,496€,3.72,527,233,1445311344196,America
+461,Cheese,1393654964889,Jacobi - Kuphal and Sons,Baby,135,496€,3.72,527,70,1458070316743,Asia
+461,Cheese,1393654964889,Jacobi - Kuphal and Sons,Baby,135,496€,3.72,527,714,1532209846723,Europe
+880,Towels,1565739913908,Gutkowski - Wolf Inc,Home,138,12150€,2.42,262,330,1488591290872,America
+880,Towels,1565739913908,Gutkowski - Wolf Inc,Home,138,12150€,2.42,262,355,1544708085179,Africa
+880,Towels,1565739913908,Gutkowski - Wolf Inc,Home,138,12150€,2.42,262,67,1561991498002,America
+880,Towels,1565739913908,Gutkowski - Wolf Inc,Home,138,12150€,2.42,262,980,1580300444180,Asia
+880,Towels,1565739913908,Gutkowski - Wolf Inc,Home,138,12150€,2.42,262,235,1599060854304,America
+880,Towels,1565739913908,Gutkowski - Wolf Inc,Home,138,12150€,2.42,262,595,1650735686597,America
+500,Mouse,1604852961071,Metz Group LLC,Sports,140,9656€,4.61,80,673,1420620735145,Africa
+500,Mouse,1604852961071,Metz Group LLC,Sports,140,9656€,4.61,80,768,1583511656019,Europe
+720,Bacon,1527683679595,"Tremblay, Effertz and Smitham Group",Health,145,7866€,2.71,195,421,1601996683718,Asia
+209,Sausages,1439663820317,Kuhic LLC LLC,Garden,147,3795€,1.15,950,851,1562721688721,Africa
+967,Fish,1429371525733,DuBuque - Watsica and Sons,Industrial,148,3105€,4.88,592,697,1422070541055,Asia
+967,Fish,1429371525733,DuBuque - Watsica and Sons,Industrial,148,3105€,4.88,592,486,1521021158849,Oceania
+118,Shoes,1491856867564,Maggio and Sons Inc,Computers,149,1920€,2.02,312,215,1490275078001,Africa
+118,Shoes,1491856867564,Maggio and Sons Inc,Computers,149,1920€,2.02,312,823,1586001473434,Africa
+118,Shoes,1491856867564,Maggio and Sons Inc,Computers,149,1920€,3.67,520,942,1647593488987,America
+698,Bike,1522683246128,Nienow - Beer and Sons,Books,151,3990€,4.72,13,624,1472073448608,Asia
+394,Shoes,1591233648827,"Wilkinson, Stoltenberg and Ratke Inc",Toys,152,2331€,1.03,785,223,1635515197301,Oceania
+202,Towels,1568340878950,Schoen - Pouros Inc,Grocery,153,3551€,4.81,266,429,1406616228605,Europe
+510,Car,1518075196711,Wisozk - Nitzsche LLC,Games,154,3100€,3.13,934,365,1404145344308,Oceania
+510,Car,1518075196711,Wisozk - Nitzsche LLC,Games,154,3100€,3.13,934,323,1632163784537,Europe
+510,Car,1518075196711,Wisozk - Nitzsche LLC,Games,154,3100€,3.21,934,365,1404145344308,Oceania
+510,Car,1518075196711,Wisozk - Nitzsche LLC,Games,154,3100€,3.21,934,323,1632163784537,Europe
+333,Fish,1634716148401,Leuschke and Sons LLC,Games,156,856€,0.36,570,876,1548364094731,Oceania
+333,Fish,1634716148401,Leuschke and Sons LLC,Games,156,856€,0.36,570,216,1563895481717,Europe
+364,Keyboard,1636025432296,Hegmann and Sons and Sons,Toys,160,5880€,0.71,852,166,1457301217274,Asia
+943,Soap,1416670249045,"Monahan, Fadel and Jones Group",Books,161,2002€,2.1,366,892,1522873348189,Oceania
+943,Soap,1416670249045,"Monahan, Fadel and Jones Group",Books,161,2002€,2.1,366,809,1605924566430,Europe
+943,Soap,1416670249045,"Monahan, Fadel and Jones Group",Books,161,2002€,2.1,366,296,1607426902028,Asia
+970,Pizza,1507058631068,O'Reilly - Hahn LLC,Music,164,2992€,2.41,421,686,1561690864850,Africa
+970,Pizza,1507058631068,O'Reilly - Hahn LLC,Music,164,2992€,3.28,973,167,1533823309080,Europe
+893,Sausages,1610053406697,Williamson - Fadel Group,Beauty,167,4585€,3.56,924,238,1542490519412,Oceania
+399,Bacon,1578003415268,"Torp, Schaden and Bauch and Sons",Books,168,3680€,0.14,480,56,1644906391200,America
+399,Bacon,1578003415268,"Torp, Schaden and Bauch and Sons",Books,168,3680€,2.35,522,460,1560383773373,America
+374,Tuna,1429507349776,Funk LLC LLC,Shoes,172,2320€,4.81,549,671,1640415177754,Europe
+81,Car,1447905567246,O'Conner - Hirthe Inc,Sports,173,1998€,2.11,517,52,1440494427639,America
+81,Car,1447905567246,O'Conner - Hirthe Inc,Sports,173,1998€,2.11,517,227,1590916501088,Oceania
+950,Shirt,1457644724954,"McClure, Steuber and Klein Group",Movies,174,1710€,2.75,575,962,1459989877726,Africa
+950,Shirt,1457644724954,"McClure, Steuber and Klein Group",Movies,174,1710€,2.75,575,694,1481586689749,Africa
+950,Shirt,1457644724954,"McClure, Steuber and Klein Group",Movies,174,1710€,2.75,575,404,1530285507114,Europe
+165,Mouse,1401757543797,Ullrich - Larson Group,Electronics,176,988€,0.5,684,707,1426730073671,Europe
+769,Salad,1640242827818,Kihn - Glover and Sons,Computers,178,4400€,0.01,411,417,1585693350613,Oceania
+180,Mouse,1605452340747,Howell - Hansen and Sons,Kids,180,177€,0.62,248,550,1631034230157,Africa
+211,Chips,1615336452426,Hahn - Kub Group,Health,184,4386€,1.59,229,239,1405905932127,Africa
+211,Chips,1615336452426,Hahn - Kub Group,Health,184,4386€,1.59,229,549,1420170079517,Asia
+211,Chips,1615336452426,Hahn - Kub Group,Health,184,4386€,1.59,229,598,1616791960570,America
+903,Cheese,1447077037113,"Beier, McLaughlin and Schimmel LLC",Music,185,3025€,3.77,177,490,1403475636067,America
+903,Cheese,1447077037113,"Beier, McLaughlin and Schimmel LLC",Music,185,3025€,3.49,464,282,1422193199692,Africa
+371,Gloves,1403185416154,Terry - Tromp Group,Shoes,186,585€,2.27,628,161,1619377981280,Oceania
+286,Chicken,1486962777887,Medhurst LLC LLC,Shoes,187,2709€,4.99,59,635,1635758342535,Oceania
+313,Hat,1517041900578,Howe and Sons LLC,Automotive,190,2989€,4.03,773,928,1390655720737,Europe
+313,Hat,1517041900578,Howe and Sons LLC,Automotive,190,2989€,4.03,773,881,1544379327723,Asia
+313,Hat,1517041900578,Howe and Sons LLC,Automotive,190,2989€,4.03,773,957,1606957062199,Asia
+313,Hat,1517041900578,Howe and Sons LLC,Automotive,190,2989€,0.45,826,830,1477423887642,Africa
+387,Car,1608540814151,Bradtke and Sons Group,Music,191,1936€,1.26,872,117,1478904324936,Africa
+23,Computer,1444551562217,Bauch - Lebsack Inc,Health,194,3375€,2.09,496,537,1532243659676,Africa
+23,Computer,1444551562217,Bauch - Lebsack Inc,Health,194,3375€,2.09,496,909,1542370977354,Oceania
+23,Computer,1444551562217,Bauch - Lebsack Inc,Health,194,3375€,2.09,496,485,1644702016784,Africa
+641,Table,1404944414199,Haag - Schimmel Group,Clothing,197,9898€,3.19,412,505,1590827676516,Oceania
+641,Table,1404944414199,Haag - Schimmel Group,Clothing,197,9898€,0.62,954,190,1428167840583,Africa
+641,Table,1404944414199,Haag - Schimmel Group,Clothing,197,9898€,0.62,954,653,1497112920233,Africa
+641,Table,1404944414199,Haag - Schimmel Group,Clothing,197,9898€,0.62,954,746,1512690735683,Africa
+387,Car,1608540814151,Bradtke and Sons Group,Music,198,2530€,1.26,872,117,1478904324936,Africa
+742,Bacon,1643178895034,"Bechtelar, Nienow and Altenwerth Inc",Garden,199,10648€,0.93,976,782,1528064018346,Asia
+841,Ball,1607096168659,Wilderman - Berge LLC,Toys,202,4900€,3.78,923,31,1601615057800,Africa
+785,Bike,1504515398662,"Strosin, Volkman and Schiller LLC",Outdoors,207,5225€,4.9,507,152,1613280217957,Europe
+425,Soap,1551855153815,"Boyer, Abernathy and Gleichner and Sons",Beauty,211,1577€,3.4,991,68,1548368576991,Europe
+736,Hat,1523259841647,DuBuque - Roob Group,Music,213,5856€,3.3,923,31,1601615057800,Africa
+858,Ball,1528310121053,Daniel and Sons LLC,Clothing,215,6664€,3.44,99,381,1512059386113,America
+984,Shirt,1542242267367,Stiedemann Inc Inc,Jewelery,216,8294€,3.85,279,943,1414306046762,Europe
+361,Keyboard,1523531105615,"Kozey, Corwin and Nikolaus Group",Computers,217,6240€,3.61,383,312,1612816302133,Oceania
+573,Keyboard,1461442427295,Leffler Group Group,Jewelery,218,8690€,2.27,911,358,1450130359544,Asia
+573,Keyboard,1461442427295,Leffler Group Group,Jewelery,218,8690€,2.27,911,993,1574568541516,Africa
+573,Keyboard,1461442427295,Leffler Group Group,Jewelery,218,8690€,0.15,973,167,1533823309080,Europe
+572,Pizza,1428504796830,Bogisich Group Group,Beauty,219,4641€,4.48,585,692,1520034679888,America
+572,Pizza,1428504796830,Bogisich Group Group,Beauty,219,4641€,2.14,611,136,1618656907944,Europe
+528,Gloves,1590546237294,Kunde and Sons and Sons,Music,222,1122€,2.99,683,950,1607208248525,Asia
+505,Tuna,1591726517162,Ritchie Group Inc,Baby,226,651€,0.7,637,424,1399597489142,America
+505,Tuna,1591726517162,Ritchie Group Inc,Baby,226,651€,0.7,637,447,1451467632931,Europe
+270,Keyboard,1579354550395,Stokes LLC and Sons,Music,229,6251€,1.89,589,414,1526402530345,Europe
+270,Keyboard,1579354550395,Stokes LLC and Sons,Music,229,6251€,1.89,589,804,1595537785734,Oceania
+270,Keyboard,1579354550395,Stokes LLC and Sons,Music,229,6251€,1.89,589,564,1627370036989,Africa
+673,Mouse,1620101361713,Dare LLC and Sons,Toys,231,4998€,4.86,885,773,1477891914336,Oceania
+673,Mouse,1620101361713,Dare LLC and Sons,Toys,231,4998€,4.86,885,872,1498363520589,Africa
+280,Salad,1473112519981,"Gerhold, Metz and Wuckert and Sons",Baby,232,9316€,2.52,529,33,1456101250798,Asia
+963,Table,1538859746328,Quitzon - Heller Inc,Electronics,236,12126€,2.71,657,744,1435334515112,Europe
+901,Ball,1546541950103,"Cruickshank, Gerhold and Hayes Inc",Grocery,238,13857€,0.39,237,107,1593044660261,Africa
+687,Computer,1505925162314,Hirthe - Green Inc,Games,240,12104€,0.96,769,869,1501461967795,Europe
+687,Computer,1505925162314,Hirthe - Green Inc,Games,240,12104€,0.96,769,702,1525321007299,Asia
+328,Salad,1491362846323,"Prosacco, Swaniawski and Rutherford and Sons",Garden,242,2272€,3.25,205,435,1590210643177,Europe
+328,Salad,1491362846323,"Prosacco, Swaniawski and Rutherford and Sons",Garden,242,2272€,4.05,213,593,1544632756402,Oceania
+328,Salad,1491362846323,"Prosacco, Swaniawski and Rutherford and Sons",Garden,242,2272€,4.05,213,121,1545474676097,Europe
+366,Fish,1495833097926,Roob Group Group,Garden,243,6200€,0.45,671,637,1642430898645,Oceania
+916,Bike,1599393378777,Kirlin - Klein and Sons,Health,246,2938€,2.04,250,750,1559758892194,Europe
+916,Bike,1599393378777,Kirlin - Klein and Sons,Health,246,2938€,2.04,250,862,1568791729850,Oceania
+916,Bike,1599393378777,Kirlin - Klein and Sons,Health,246,2938€,0.8,600,300,1535879622979,Oceania
+506,Pizza,1446605615771,"Jakubowski, Friesen and Shanahan LLC",Games,249,13728€,3.49,87,370,1440215198154,Europe
+506,Pizza,1446605615771,"Jakubowski, Friesen and Shanahan LLC",Games,249,13728€,3.49,87,503,1525204333677,Europe
+506,Pizza,1446605615771,"Jakubowski, Friesen and Shanahan LLC",Games,249,13728€,3.49,87,104,1628042180103,America
+76,Pizza,1593442977678,"Lindgren, Howe and Vandervort and Sons",Movies,250,3016€,1.41,948,994,1445331826763,Oceania
+558,Computer,1607807557705,Cronin and Sons Group,Kids,251,4687€,3.29,516,372,1514905769279,Asia
+558,Computer,1607807557705,Cronin and Sons Group,Kids,251,4687€,2.59,914,606,1398987058578,America
+558,Computer,1607807557705,Cronin and Sons Group,Kids,251,4687€,2.59,914,412,1402592756318,Africa
+558,Computer,1607807557705,Cronin and Sons Group,Kids,251,4687€,2.59,914,899,1412562092736,America
+302,Bacon,1465945124030,Purdy Group Inc,Kids,252,469€,4.88,817,508,1434327163163,Asia
+302,Bacon,1465945124030,Purdy Group Inc,Kids,252,469€,3.42,825,118,1511166398853,America
+291,Shirt,1631514673663,Hagenes - Marvin and Sons,Garden,254,784€,4.15,712,90,1411372309102,America
+740,Soap,1598202377983,Schneider and Sons Group,Kids,258,14016€,3.22,718,289,1496544448296,Africa
+740,Soap,1598202377983,Schneider and Sons Group,Kids,258,14016€,3.22,718,198,1563285192023,Oceania
+271,Mouse,1471979858140,"Daniel, Romaguera and Stroman Inc",Beauty,260,1840€,3.63,527,233,1445311344196,America
+271,Mouse,1471979858140,"Daniel, Romaguera and Stroman Inc",Beauty,260,1840€,3.63,527,70,1458070316743,Asia
+271,Mouse,1471979858140,"Daniel, Romaguera and Stroman Inc",Beauty,260,1840€,3.63,527,714,1532209846723,Europe
+271,Mouse,1471979858140,"Daniel, Romaguera and Stroman Inc",Beauty,260,1840€,2.51,850,831,1584095770274,Africa
+467,Pizza,1520192983400,Rolfson and Sons and Sons,Industrial,261,1032€,1.78,816,875,1441953783149,Europe
+63,Chips,1479888631733,Parker - DuBuque LLC,Games,266,2050€,4.74,354,11,1598519615678,Europe
+63,Chips,1479888631733,Parker - DuBuque LLC,Games,266,2050€,3.12,355,254,1491769255380,Oceania
+63,Chips,1479888631733,Parker - DuBuque LLC,Games,266,2050€,3.12,355,466,1587334909553,Oceania
+64,Pants,1549169682336,"Lindgren, Rolfson and Schmeler Group",Movies,268,2376€,1.27,113,642,1617444723477,Europe
+64,Pants,1549169682336,"Lindgren, Rolfson and Schmeler Group",Movies,268,2376€,3.22,435,970,1441082440296,Oceania
+64,Pants,1549169682336,"Lindgren, Rolfson and Schmeler Group",Movies,268,2376€,3.22,435,937,1516148185530,Asia
+64,Pants,1549169682336,"Lindgren, Rolfson and Schmeler Group",Movies,268,2376€,3.22,435,80,1610975548105,Africa
+582,Computer,1447509702386,Reynolds and Sons Inc,Electronics,269,3234€,2.39,863,279,1416371843743,Oceania
+582,Computer,1447509702386,Reynolds and Sons Inc,Electronics,269,3234€,2.39,863,307,1630548657687,Africa
+817,Sausages,1625748906092,Langosh - Beahan Inc,Shoes,270,880€,0.23,322,72,1567251421046,Africa
+817,Sausages,1625748906092,Langosh - Beahan Inc,Shoes,270,880€,0.23,322,683,1610571334588,Oceania
+407,Bike,1512563281654,"Lebsack, Stiedemann and Keebler and Sons",Electronics,271,6431€,2.39,527,233,1445311344196,America
+407,Bike,1512563281654,"Lebsack, Stiedemann and Keebler and Sons",Electronics,271,6431€,2.39,527,70,1458070316743,Asia
+407,Bike,1512563281654,"Lebsack, Stiedemann and Keebler and Sons",Electronics,271,6431€,2.39,527,714,1532209846723,Europe
+407,Bike,1512563281654,"Lebsack, Stiedemann and Keebler and Sons",Electronics,271,6431€,4.58,937,430,1424034719632,Africa
+407,Bike,1512563281654,"Lebsack, Stiedemann and Keebler and Sons",Electronics,271,6431€,4.58,937,158,1427479004012,America
+407,Bike,1512563281654,"Lebsack, Stiedemann and Keebler and Sons",Electronics,271,6431€,4.58,937,494,1506962435729,America
+394,Shoes,1591233648827,"Wilkinson, Stoltenberg and Ratke Inc",Toys,272,3952€,1.03,785,223,1635515197301,Oceania
+931,Soap,1418018496643,"Cremin, O'Reilly and Rutherford and Sons",Games,279,440€,3.09,972,306,1636587457076,America
+520,Keyboard,1482956091279,Turcotte - Marks and Sons,Baby,280,8470€,2.86,328,662,1608613279999,Asia
+524,Keyboard,1519383549347,"Cronin, Orn and Baumbach and Sons",Computers,281,4448€,4.37,185,140,1504591889279,America
+524,Keyboard,1519383549347,"Cronin, Orn and Baumbach and Sons",Computers,281,4448€,4.57,644,69,1550211242800,America
+225,Hat,1635964142479,Armstrong - Johns Group,Beauty,282,5376€,0.63,682,98,1647542479923,Asia
+992,Salad,1480641650179,Schuppe - O'Keefe and Sons,Beauty,287,428€,1.93,48,124,1473577958327,Europe
+813,Mouse,1514040388064,Roberts and Sons Group,Outdoors,288,3115€,2.49,942,891,1482333045939,Oceania
+813,Mouse,1514040388064,Roberts and Sons Group,Outdoors,288,3115€,2.49,942,601,1526012738559,Asia
+71,Shirt,1623506009066,Hauck - Reichel LLC,Electronics,292,611€,3.61,940,212,1467384361020,Africa
+71,Shirt,1623506009066,Hauck - Reichel LLC,Electronics,292,611€,3.61,940,870,1609602579786,Africa
+714,Bike,1511685277707,Cronin - Franecki and Sons,Grocery,294,1075€,0.26,257,561,1644314520163,Europe
+54,Towels,1460562344017,"Dickens, Hills and Feil and Sons",Health,295,1296€,2.84,539,814,1510486872244,Asia
+54,Towels,1460562344017,"Dickens, Hills and Feil and Sons",Health,295,1296€,2.84,539,895,1526663198039,Asia
+532,Soap,1613350508705,Gibson Group LLC,Books,296,3752€,1.89,11,616,1457598346669,Europe
+919,Mouse,1442178485860,Crist Inc Inc,Books,299,800€,4.51,85,484,1630065902799,America
+919,Mouse,1442178485860,Crist Inc Inc,Books,299,800€,1.69,309,791,1646206863869,America
+919,Mouse,1442178485860,Crist Inc Inc,Books,299,800€,3.82,493,303,1416296448999,America
+919,Mouse,1442178485860,Crist Inc Inc,Books,299,800€,3.82,493,846,1603950626091,Africa
+321,Shirt,1421120487873,Brakus and Sons and Sons,Baby,304,5917€,0.66,247,666,1584141793568,Oceania
+858,Ball,1528310121053,Daniel and Sons LLC,Clothing,305,1100€,3.44,99,381,1512059386113,America
+919,Mouse,1442178485860,Crist Inc Inc,Books,306,451€,4.51,85,484,1630065902799,America
+919,Mouse,1442178485860,Crist Inc Inc,Books,306,451€,1.69,309,791,1646206863869,America
+919,Mouse,1442178485860,Crist Inc Inc,Books,306,451€,3.82,493,303,1416296448999,America
+919,Mouse,1442178485860,Crist Inc Inc,Books,306,451€,3.82,493,846,1603950626091,Africa
+728,Bike,1568314764523,Beahan - Tromp Inc,Outdoors,307,6399€,2.58,923,31,1601615057800,Africa
+984,Shirt,1542242267367,Stiedemann Inc Inc,Jewelery,308,2120€,3.85,279,943,1414306046762,Europe
+566,Towels,1396331531697,Rau - Haag Inc,Movies,309,480€,4.6,102,615,1405008573676,Europe
+566,Towels,1396331531697,Rau - Haag Inc,Movies,309,480€,1.18,536,15,1417661625104,Asia
+321,Shirt,1421120487873,Brakus and Sons and Sons,Baby,310,10296€,0.66,247,666,1584141793568,Oceania
+737,Keyboard,1470439939634,"Volkman, Schuppe and Simonis and Sons",Health,312,12741€,1.55,254,907,1525496258349,Oceania
+737,Keyboard,1470439939634,"Volkman, Schuppe and Simonis and Sons",Health,312,12741€,1.55,254,105,1560204500125,Asia
+737,Keyboard,1470439939634,"Volkman, Schuppe and Simonis and Sons",Health,312,12741€,1.55,254,865,1572068276286,Europe
+737,Keyboard,1470439939634,"Volkman, Schuppe and Simonis and Sons",Health,312,12741€,1.55,254,13,1643480481537,Europe
+176,Chips,1539439144744,Graham - Pfannerstill LLC,Computers,314,2660€,0.78,262,330,1488591290872,America
+176,Chips,1539439144744,Graham - Pfannerstill LLC,Computers,314,2660€,0.78,262,355,1544708085179,Africa
+176,Chips,1539439144744,Graham - Pfannerstill LLC,Computers,314,2660€,0.78,262,67,1561991498002,America
+176,Chips,1539439144744,Graham - Pfannerstill LLC,Computers,314,2660€,0.78,262,980,1580300444180,Asia
+176,Chips,1539439144744,Graham - Pfannerstill LLC,Computers,314,2660€,0.78,262,235,1599060854304,America
+176,Chips,1539439144744,Graham - Pfannerstill LLC,Computers,314,2660€,0.78,262,595,1650735686597,America
+176,Chips,1539439144744,Graham - Pfannerstill LLC,Computers,314,2660€,1.86,832,507,1634764988422,Europe
+955,Car,1534827222627,Hagenes - Metz Inc,Movies,317,6608€,0.53,180,397,1648066334388,Oceania
+170,Fish,1405406703899,Stracke - Goldner LLC,Computers,319,10560€,3.58,7,703,1490806227719,Europe
+170,Fish,1405406703899,Stracke - Goldner LLC,Computers,319,10560€,3.58,7,958,1552751309364,America
+170,Fish,1405406703899,Stracke - Goldner LLC,Computers,319,10560€,2.49,136,385,1452020366290,Oceania
+170,Fish,1405406703899,Stracke - Goldner LLC,Computers,319,10560€,2.49,136,178,1504857190507,Oceania
+571,Salad,1586824013289,Tremblay - Hirthe LLC,Music,325,11094€,2.28,532,462,1532075920814,Asia
+571,Salad,1586824013289,Tremblay - Hirthe LLC,Music,325,11094€,2.28,532,206,1648814898173,Oceania
+857,Mouse,1400599730424,"Schuster, Williamson and Batz Inc",Toys,326,9801€,3.29,585,692,1520034679888,America
+674,Cheese,1521326715045,"Koepp, Green and Schneider LLC",Tools,328,6528€,2.52,471,467,1482120856299,Europe
+674,Cheese,1521326715045,"Koepp, Green and Schneider LLC",Tools,328,6528€,2.52,471,395,1533707018047,Africa
+46,Cheese,1439576208132,Thompson - Lemke Inc,Beauty,330,8568€,4.4,911,358,1450130359544,Asia
+46,Cheese,1439576208132,Thompson - Lemke Inc,Beauty,330,8568€,4.4,911,993,1574568541516,Africa
+266,Bike,1396330691067,Wilkinson - Purdy Inc,Garden,335,6105€,4.38,402,569,1574321732256,Europe
+559,Bacon,1546318195235,Jones LLC LLC,Home,338,5247€,1.08,235,691,1400233475243,America
+882,Chips,1396300279799,Schmidt - Maggio Inc,Grocery,340,4290€,3.53,658,260,1561752540254,Africa
+882,Chips,1396300279799,Schmidt - Maggio Inc,Grocery,340,4290€,3.17,901,840,1526684385813,Africa
+364,Keyboard,1636025432296,Hegmann and Sons and Sons,Toys,342,6512€,0.71,852,166,1457301217274,Asia
+454,Cheese,1392348306854,Tromp - O'Connell Group,Beauty,344,130€,3.63,320,423,1650448172955,Europe
+454,Cheese,1392348306854,Tromp - O'Connell Group,Beauty,344,130€,2.26,966,639,1630922276352,Europe
+481,Pizza,1595801001388,"Feil, Douglas and Jacobson LLC",Music,348,882€,0.02,259,393,1466510744298,Asia
+481,Pizza,1595801001388,"Feil, Douglas and Jacobson LLC",Music,348,882€,3.36,658,260,1561752540254,Africa
+959,Sausages,1519590787120,"Bartoletti, Kilback and Torp Inc",Clothing,349,837€,1.72,546,812,1496272425087,Africa
+959,Sausages,1519590787120,"Bartoletti, Kilback and Torp Inc",Clothing,349,837€,1.72,546,453,1610942943684,Asia
+559,Bacon,1546318195235,Jones LLC LLC,Home,351,2314€,1.08,235,691,1400233475243,America
+737,Keyboard,1470439939634,"Volkman, Schuppe and Simonis and Sons",Health,352,8584€,1.55,254,907,1525496258349,Oceania
+737,Keyboard,1470439939634,"Volkman, Schuppe and Simonis and Sons",Health,352,8584€,1.55,254,105,1560204500125,Asia
+737,Keyboard,1470439939634,"Volkman, Schuppe and Simonis and Sons",Health,352,8584€,1.55,254,865,1572068276286,Europe
+737,Keyboard,1470439939634,"Volkman, Schuppe and Simonis and Sons",Health,352,8584€,1.55,254,13,1643480481537,Europe
+806,Pants,1452843108087,"Doyle, Larson and Kshlerin Group",Books,354,5520€,3.36,896,567,1433413795225,Africa
+806,Pants,1452843108087,"Doyle, Larson and Kshlerin Group",Books,354,5520€,3.36,896,444,1442661837395,Oceania
+806,Pants,1452843108087,"Doyle, Larson and Kshlerin Group",Books,354,5520€,3.36,896,560,1614326507478,Europe
+147,Soap,1552332712057,O'Hara Inc Inc,Sports,358,4720€,2.82,228,781,1441076547868,Asia
+147,Soap,1552332712057,O'Hara Inc Inc,Sports,358,4720€,2.82,228,149,1463065314171,America
+663,Shoes,1480683825007,"Kautzer, Purdy and Carroll Inc",Baby,359,4536€,0.27,51,758,1493721537666,Africa
+663,Shoes,1480683825007,"Kautzer, Purdy and Carroll Inc",Baby,359,4536€,0.27,51,736,1528589968909,Africa
+663,Shoes,1480683825007,"Kautzer, Purdy and Carroll Inc",Baby,359,4536€,1.07,263,96,1446488182663,Africa
+663,Shoes,1480683825007,"Kautzer, Purdy and Carroll Inc",Baby,359,4536€,1.07,263,165,1478045413949,America
+296,Car,1534841198922,Tremblay - Ullrich and Sons,Beauty,361,9894€,3.07,381,729,1412748915501,Europe
+296,Car,1534841198922,Tremblay - Ullrich and Sons,Beauty,361,9894€,3.07,381,789,1531740864537,Africa
+296,Car,1534841198922,Tremblay - Ullrich and Sons,Beauty,361,9894€,3.07,381,953,1603701392668,Oceania
+296,Car,1534841198922,Tremblay - Ullrich and Sons,Beauty,361,9894€,0.1,418,211,1409492189078,America
+296,Car,1534841198922,Tremblay - Ullrich and Sons,Beauty,361,9894€,0.1,418,148,1446868081608,America
+296,Car,1534841198922,Tremblay - Ullrich and Sons,Beauty,361,9894€,4.99,872,117,1478904324936,Africa
+442,Mouse,1588369898757,Gulgowski Group and Sons,Electronics,362,8658€,4.16,37,743,1573256183510,Oceania
+750,Pants,1477149505687,Smitham Inc Group,Electronics,364,1242€,1.8,259,393,1466510744298,Asia
+461,Cheese,1393654964889,Jacobi - Kuphal and Sons,Baby,365,2622€,3.72,527,233,1445311344196,America
+461,Cheese,1393654964889,Jacobi - Kuphal and Sons,Baby,365,2622€,3.72,527,70,1458070316743,Asia
+461,Cheese,1393654964889,Jacobi - Kuphal and Sons,Baby,365,2622€,3.72,527,714,1532209846723,Europe
+222,Keyboard,1463995468155,Ruecker Group LLC,Games,368,10804€,0.83,441,860,1459942016941,Asia
+222,Keyboard,1463995468155,Ruecker Group LLC,Games,368,10804€,0.83,441,659,1536857232946,America
+732,Bacon,1542723229742,Schaefer - Larson Inc,Clothing,371,1633€,4.97,36,628,1507992741527,Asia
+732,Bacon,1542723229742,Schaefer - Larson Inc,Clothing,371,1633€,0.67,924,238,1542490519412,Oceania
+363,Shirt,1407136762651,"Hammes, Lueilwitz and Langosh and Sons",Automotive,378,10234€,0.52,14,790,1428889324657,America
+363,Shirt,1407136762651,"Hammes, Lueilwitz and Langosh and Sons",Automotive,378,10234€,0.52,14,778,1498208692808,America
+363,Shirt,1407136762651,"Hammes, Lueilwitz and Langosh and Sons",Automotive,378,10234€,0.52,14,244,1594482325162,Oceania
+714,Bike,1511685277707,Cronin - Franecki and Sons,Grocery,382,5796€,0.26,257,561,1644314520163,Europe
+712,Fish,1401052045710,Nolan - Johnson Group,Electronics,383,10668€,3.06,162,641,1491624085024,Africa
+712,Fish,1401052045710,Nolan - Johnson Group,Electronics,383,10668€,3.06,162,967,1536585588898,Oceania
+712,Fish,1401052045710,Nolan - Johnson Group,Electronics,383,10668€,1.25,249,273,1525754760367,Oceania
+559,Bacon,1546318195235,Jones LLC LLC,Home,385,2277€,1.08,235,691,1400233475243,America
+359,Computer,1434168129477,"Lueilwitz, Abshire and McCullough Group",Music,386,976€,0.67,577,695,1637986143649,Africa
+665,Chair,1605107568358,"Champlin, Schaden and Jacobson Group",Music,388,2652€,2.2,593,275,1486715902170,America
+305,Pants,1453881928746,Volkman Inc Group,Baby,389,2632€,2.24,94,577,1500271196969,Africa
+305,Pants,1453881928746,Volkman Inc Group,Baby,389,2632€,2.24,94,578,1626633560851,Europe
+305,Pants,1453881928746,Volkman Inc Group,Baby,389,2632€,0.7,328,662,1608613279999,Asia
+911,Towels,1616537645976,Stehr - Murray and Sons,Automotive,394,1458€,0.14,605,482,1391260947679,Oceania
+452,Table,1612418027123,Ferry Group Inc,Home,396,1040€,2.52,127,978,1413580482354,Asia
+452,Table,1612418027123,Ferry Group Inc,Home,396,1040€,2.52,127,411,1443488248787,Africa
+452,Table,1612418027123,Ferry Group Inc,Home,396,1040€,1.23,211,931,1407218205502,Oceania
+452,Table,1612418027123,Ferry Group Inc,Home,396,1040€,1.23,211,520,1495188865730,Europe
+67,Sausages,1614155331254,Crist and Sons Group,Movies,397,2562€,1.28,400,53,1392827042174,America
+67,Sausages,1614155331254,Crist and Sons Group,Movies,397,2562€,1.28,400,534,1525942541745,Africa
+67,Sausages,1614155331254,Crist and Sons Group,Movies,397,2562€,1.28,400,439,1592559997816,Europe
+67,Sausages,1614155331254,Crist and Sons Group,Movies,397,2562€,2.44,876,742,1511433674279,America
+67,Sausages,1614155331254,Crist and Sons Group,Movies,397,2562€,2.44,876,229,1578732345807,Europe
+67,Sausages,1614155331254,Crist and Sons Group,Movies,397,2562€,2.44,876,144,1620372004984,Oceania
+311,Table,1480706348107,Rogahn - Rolfson LLC,Outdoors,399,3400€,0.31,268,130,1580490918365,Oceania
+742,Bacon,1643178895034,"Bechtelar, Nienow and Altenwerth Inc",Garden,401,945€,0.93,976,782,1528064018346,Asia
+610,Hat,1603827930002,Fay Inc Inc,Automotive,402,4745€,0.59,695,309,1426733994042,America
+610,Hat,1603827930002,Fay Inc Inc,Automotive,402,4745€,0.59,695,600,1555362929977,Oceania
+925,Tuna,1554993739904,Yost - Rolfson LLC,Health,403,4840€,3.11,78,946,1528367688158,Africa
+899,Bacon,1619355939658,"Kuhlman, Murray and Treutel Group",Games,404,1785€,1.11,309,791,1646206863869,America
+673,Mouse,1620101361713,Dare LLC and Sons,Toys,406,4482€,4.86,885,773,1477891914336,Oceania
+673,Mouse,1620101361713,Dare LLC and Sons,Toys,406,4482€,4.86,885,872,1498363520589,Africa
+528,Gloves,1590546237294,Kunde and Sons and Sons,Music,407,9116€,2.99,683,950,1607208248525,Asia
+906,Sausages,1424585265100,"Lindgren, Hoeger and O'Connell and Sons",Books,408,1653€,0.11,283,147,1483830325822,America
+906,Sausages,1424585265100,"Lindgren, Hoeger and O'Connell and Sons",Books,408,1653€,0.11,283,874,1565030183358,Europe
+906,Sausages,1424585265100,"Lindgren, Hoeger and O'Connell and Sons",Books,408,1653€,4.12,383,312,1612816302133,Oceania
+906,Sausages,1424585265100,"Lindgren, Hoeger and O'Connell and Sons",Books,408,1653€,2.45,816,875,1441953783149,Europe
+906,Sausages,1424585265100,"Lindgren, Hoeger and O'Connell and Sons",Books,408,1653€,4.74,852,166,1457301217274,Asia
+816,Chicken,1395528788785,Leannon - Parisian Inc,Baby,409,8514€,2.66,559,457,1542831525518,America
+924,Pants,1530784442649,Crona LLC LLC,Health,413,1350€,0.7,11,616,1457598346669,Europe
+186,Soap,1583015974874,"Gusikowski, Dach and Heidenreich and Sons",Home,415,3560€,0.28,563,849,1590505742258,Asia
+528,Gloves,1590546237294,Kunde and Sons and Sons,Music,419,840€,2.99,683,950,1607208248525,Asia
+42,Bike,1453179948615,Ritchie and Sons and Sons,Books,420,5256€,3.63,98,241,1623048486670,America
+547,Ball,1446178293032,"Powlowski, Hyatt and Adams LLC",Shoes,421,7906€,0.3,45,394,1388600458712,Europe
+547,Ball,1446178293032,"Powlowski, Hyatt and Adams LLC",Shoes,421,7906€,1.84,501,213,1530675256187,Asia
+837,Shoes,1551333680921,"Ondricka, Considine and Schowalter Inc",Automotive,422,8613€,2.87,167,472,1455048683874,America
+837,Shoes,1551333680921,"Ondricka, Considine and Schowalter Inc",Automotive,422,8613€,4.39,695,309,1426733994042,America
+837,Shoes,1551333680921,"Ondricka, Considine and Schowalter Inc",Automotive,422,8613€,4.39,695,600,1555362929977,Oceania
+296,Car,1534841198922,Tremblay - Ullrich and Sons,Beauty,423,1904€,3.07,381,729,1412748915501,Europe
+296,Car,1534841198922,Tremblay - Ullrich and Sons,Beauty,423,1904€,3.07,381,789,1531740864537,Africa
+296,Car,1534841198922,Tremblay - Ullrich and Sons,Beauty,423,1904€,3.07,381,953,1603701392668,Oceania
+296,Car,1534841198922,Tremblay - Ullrich and Sons,Beauty,423,1904€,0.1,418,211,1409492189078,America
+296,Car,1534841198922,Tremblay - Ullrich and Sons,Beauty,423,1904€,0.1,418,148,1446868081608,America
+296,Car,1534841198922,Tremblay - Ullrich and Sons,Beauty,423,1904€,4.99,872,117,1478904324936,Africa
+253,Towels,1644949213222,"Kassulke, Mertz and Schneider Group",Books,426,2520€,0.78,522,460,1560383773373,America
+573,Keyboard,1461442427295,Leffler Group Group,Jewelery,428,3328€,2.27,911,358,1450130359544,Asia
+573,Keyboard,1461442427295,Leffler Group Group,Jewelery,428,3328€,2.27,911,993,1574568541516,Africa
+573,Keyboard,1461442427295,Leffler Group Group,Jewelery,428,3328€,0.15,973,167,1533823309080,Europe
+949,Fish,1501919688155,Thiel - Jakubowski and Sons,Automotive,429,138€,2.11,516,372,1514905769279,Asia
+377,Soap,1629766491825,"VonRueden, Mann and McKenzie and Sons",Automotive,430,1640€,0.3,754,420,1610974452415,Oceania
+96,Chair,1580103532017,Maggio and Sons Inc,Electronics,432,5616€,3.49,966,639,1630922276352,Europe
+728,Bike,1568314764523,Beahan - Tromp Inc,Outdoors,433,8775€,2.58,923,31,1601615057800,Africa
+96,Chair,1580103532017,Maggio and Sons Inc,Electronics,434,4171€,3.49,966,639,1630922276352,Europe
+176,Chips,1539439144744,Graham - Pfannerstill LLC,Computers,436,8080€,0.78,262,330,1488591290872,America
+176,Chips,1539439144744,Graham - Pfannerstill LLC,Computers,436,8080€,0.78,262,355,1544708085179,Africa
+176,Chips,1539439144744,Graham - Pfannerstill LLC,Computers,436,8080€,0.78,262,67,1561991498002,America
+176,Chips,1539439144744,Graham - Pfannerstill LLC,Computers,436,8080€,0.78,262,980,1580300444180,Asia
+176,Chips,1539439144744,Graham - Pfannerstill LLC,Computers,436,8080€,0.78,262,235,1599060854304,America
+176,Chips,1539439144744,Graham - Pfannerstill LLC,Computers,436,8080€,0.78,262,595,1650735686597,America
+176,Chips,1539439144744,Graham - Pfannerstill LLC,Computers,436,8080€,1.86,832,507,1634764988422,Europe
+956,Gloves,1537750545639,"Quigley, Bauch and Vandervort Inc",Music,438,13015€,2.33,457,844,1464949875087,Oceania
+956,Gloves,1537750545639,"Quigley, Bauch and Vandervort Inc",Music,438,13015€,2.33,457,921,1522335639757,Asia
+784,Hat,1622207281239,Little Group and Sons,Automotive,439,12936€,4.46,269,963,1472686080035,Europe
+784,Hat,1622207281239,Little Group and Sons,Automotive,439,12936€,4.46,269,102,1606471508638,Oceania
+612,Mouse,1636414231322,"Price, Emmerich and Mertz LLC",Health,440,4752€,1.38,73,556,1436887371073,Oceania
+731,Sausages,1415170402844,Brown - Daugherty Group,Grocery,441,11172€,1.7,922,396,1456184003642,Europe
+448,Bacon,1553123602126,"Mante, Effertz and Gleason LLC",Music,443,5720€,0.53,481,35,1470444397171,Oceania
+806,Pants,1452843108087,"Doyle, Larson and Kshlerin Group",Books,446,1377€,3.36,896,567,1433413795225,Africa
+806,Pants,1452843108087,"Doyle, Larson and Kshlerin Group",Books,446,1377€,3.36,896,444,1442661837395,Oceania
+806,Pants,1452843108087,"Doyle, Larson and Kshlerin Group",Books,446,1377€,3.36,896,560,1614326507478,Europe
+547,Ball,1446178293032,"Powlowski, Hyatt and Adams LLC",Shoes,448,5040€,0.3,45,394,1388600458712,Europe
+547,Ball,1446178293032,"Powlowski, Hyatt and Adams LLC",Shoes,448,5040€,1.84,501,213,1530675256187,Asia
+510,Car,1518075196711,Wisozk - Nitzsche LLC,Games,449,3717€,3.13,934,365,1404145344308,Oceania
+510,Car,1518075196711,Wisozk - Nitzsche LLC,Games,449,3717€,3.13,934,323,1632163784537,Europe
+510,Car,1518075196711,Wisozk - Nitzsche LLC,Games,449,3717€,3.21,934,365,1404145344308,Oceania
+510,Car,1518075196711,Wisozk - Nitzsche LLC,Games,449,3717€,3.21,934,323,1632163784537,Europe
+518,Salad,1505761101615,Hills - Rodriguez Group,Toys,450,5439€,3.56,885,773,1477891914336,Oceania
+518,Salad,1505761101615,Hills - Rodriguez Group,Toys,450,5439€,3.56,885,872,1498363520589,Africa
+429,Computer,1563755488731,Blick and Sons LLC,Sports,456,3395€,1.23,838,97,1586386895742,Africa
+429,Computer,1563755488731,Blick and Sons LLC,Sports,456,3395€,1.23,838,845,1616337734176,Asia
+448,Bacon,1553123602126,"Mante, Effertz and Gleason LLC",Music,458,5499€,0.53,481,35,1470444397171,Oceania
+774,Car,1575874712565,Auer - Hayes Group,Computers,461,8544€,4.84,169,168,1466460586635,Africa
+482,Soap,1643839498988,Champlin and Sons LLC,Shoes,465,14356€,2.18,546,812,1496272425087,Africa
+482,Soap,1643839498988,Champlin and Sons LLC,Shoes,465,14356€,2.18,546,453,1610942943684,Asia
+932,Ball,1487267971995,Kilback LLC and Sons,Beauty,466,1620€,2.74,270,181,1395399920120,Asia
+932,Ball,1487267971995,Kilback LLC and Sons,Beauty,466,1620€,2.74,270,191,1517573784080,Africa
+932,Ball,1487267971995,Kilback LLC and Sons,Beauty,466,1620€,2.74,270,516,1566213259208,America
+932,Ball,1487267971995,Kilback LLC and Sons,Beauty,466,1620€,4.13,557,220,1407500184215,Africa
+932,Ball,1487267971995,Kilback LLC and Sons,Beauty,466,1620€,4.13,557,693,1513483213324,Africa
+453,Chair,1413628234397,Simonis - Hoppe Inc,Health,467,2291€,2.61,421,686,1561690864850,Africa
+453,Chair,1413628234397,Simonis - Hoppe Inc,Health,467,2291€,0.19,570,876,1548364094731,Oceania
+453,Chair,1413628234397,Simonis - Hoppe Inc,Health,467,2291€,0.19,570,216,1563895481717,Europe
+63,Chips,1479888631733,Parker - DuBuque LLC,Games,468,11390€,4.74,354,11,1598519615678,Europe
+63,Chips,1479888631733,Parker - DuBuque LLC,Games,468,11390€,3.12,355,254,1491769255380,Oceania
+63,Chips,1479888631733,Parker - DuBuque LLC,Games,468,11390€,3.12,355,466,1587334909553,Oceania
+883,Bacon,1585922083111,Hettinger - Turcotte Group,Jewelery,470,8442€,3.07,692,380,1579206851356,Africa
+883,Bacon,1585922083111,Hettinger - Turcotte Group,Jewelery,470,8442€,3.07,692,499,1638252874688,Asia
+934,Gloves,1542535702933,Denesik - West Inc,Health,471,12771€,0.33,139,270,1453023329913,Africa
+155,Towels,1446252132883,Anderson - Kilback Group,Shoes,474,7038€,3.41,933,433,1537529763421,Africa
+367,Chips,1639716802719,Schinner - Kshlerin Inc,Electronics,484,1470€,0.82,361,324,1487552447510,America
+367,Chips,1639716802719,Schinner - Kshlerin Inc,Electronics,484,1470€,0.82,361,559,1613721341119,Oceania
+610,Hat,1603827930002,Fay Inc Inc,Automotive,485,4590€,0.59,695,309,1426733994042,America
+610,Hat,1603827930002,Fay Inc Inc,Automotive,485,4590€,0.59,695,600,1555362929977,Oceania
+493,Computer,1427136564300,Rice Inc Group,Industrial,486,3456€,1.43,423,977,1601958182034,Oceania
+732,Bacon,1542723229742,Schaefer - Larson Inc,Clothing,491,4588€,4.97,36,628,1507992741527,Asia
+732,Bacon,1542723229742,Schaefer - Larson Inc,Clothing,491,4588€,0.67,924,238,1542490519412,Oceania
+916,Bike,1599393378777,Kirlin - Klein and Sons,Health,492,3432€,2.04,250,750,1559758892194,Europe
+916,Bike,1599393378777,Kirlin - Klein and Sons,Health,492,3432€,2.04,250,862,1568791729850,Oceania
+916,Bike,1599393378777,Kirlin - Klein and Sons,Health,492,3432€,0.8,600,300,1535879622979,Oceania
+740,Soap,1598202377983,Schneider and Sons Group,Kids,493,6885€,3.22,718,289,1496544448296,Africa
+740,Soap,1598202377983,Schneider and Sons Group,Kids,493,6885€,3.22,718,198,1563285192023,Oceania
+461,Cheese,1393654964889,Jacobi - Kuphal and Sons,Baby,494,1144€,3.72,527,233,1445311344196,America
+461,Cheese,1393654964889,Jacobi - Kuphal and Sons,Baby,494,1144€,3.72,527,70,1458070316743,Asia
+461,Cheese,1393654964889,Jacobi - Kuphal and Sons,Baby,494,1144€,3.72,527,714,1532209846723,Europe
+702,Shirt,1644604917234,"Hoeger, Donnelly and Runolfsson LLC",Industrial,496,243€,5.0,126,278,1410692980886,Oceania
+702,Shirt,1644604917234,"Hoeger, Donnelly and Runolfsson LLC",Industrial,496,243€,5.0,126,450,1430690902148,America
+576,Car,1465933735470,"D'Amore, Kirlin and Mueller LLC",Books,497,3230€,1.08,718,289,1496544448296,Africa
+576,Car,1465933735470,"D'Amore, Kirlin and Mueller LLC",Books,497,3230€,1.08,718,198,1563285192023,Oceania
+576,Car,1465933735470,"D'Amore, Kirlin and Mueller LLC",Books,497,3230€,2.72,802,134,1494467025137,Asia
+575,Pants,1454262979801,"Schneider, Hodkiewicz and Conroy LLC",Clothing,498,3036€,2.59,524,599,1476035330550,Europe
+23,Computer,1444551562217,Bauch - Lebsack Inc,Health,502,4120€,2.09,496,537,1532243659676,Africa
+23,Computer,1444551562217,Bauch - Lebsack Inc,Health,502,4120€,2.09,496,909,1542370977354,Oceania
+23,Computer,1444551562217,Bauch - Lebsack Inc,Health,502,4120€,2.09,496,485,1644702016784,Africa
+790,Keyboard,1540996706325,Kuphal LLC and Sons,Garden,504,3773€,3.1,191,474,1552294152728,Africa
+790,Keyboard,1540996706325,Kuphal LLC and Sons,Garden,504,3773€,2.26,513,856,1504686441482,Europe
+970,Pizza,1507058631068,O'Reilly - Hahn LLC,Music,505,384€,2.41,421,686,1561690864850,Africa
+970,Pizza,1507058631068,O'Reilly - Hahn LLC,Music,505,384€,3.28,973,167,1533823309080,Europe
+241,Gloves,1618332245876,Lindgren Group and Sons,Automotive,506,2030€,4.26,396,974,1628768184866,Africa
+633,Towels,1552019873213,Dooley - Weissnat Group,Health,509,9416€,2.53,609,999,1457332724048,Europe
+633,Towels,1552019873213,Dooley - Weissnat Group,Health,509,9416€,2.53,609,92,1632515405213,Africa
+913,Shoes,1442120458449,Price Inc Group,Games,511,3074€,0.79,38,426,1468470680315,Africa
+520,Keyboard,1482956091279,Turcotte - Marks and Sons,Baby,512,5400€,2.86,328,662,1608613279999,Asia
+575,Pants,1454262979801,"Schneider, Hodkiewicz and Conroy LLC",Clothing,513,2295€,2.59,524,599,1476035330550,Europe
+610,Hat,1603827930002,Fay Inc Inc,Automotive,514,7440€,0.59,695,309,1426733994042,America
+610,Hat,1603827930002,Fay Inc Inc,Automotive,514,7440€,0.59,695,600,1555362929977,Oceania
+654,Shirt,1642929660999,Olson Inc and Sons,Games,516,1435€,4.65,820,82,1416836424569,Africa
+654,Shirt,1642929660999,Olson Inc and Sons,Games,516,1435€,4.65,820,839,1466641570027,Europe
+654,Shirt,1642929660999,Olson Inc and Sons,Games,516,1435€,4.65,820,367,1612653930343,Asia
+381,Soap,1587125095916,Koss and Sons LLC,Toys,521,4130€,1.54,856,283,1462191723396,Africa
+185,Shirt,1622900426094,Carroll - Deckow LLC,Grocery,524,4181€,4.31,925,568,1418418182861,Oceania
+185,Shirt,1622900426094,Carroll - Deckow LLC,Grocery,524,4181€,4.31,925,634,1546656154951,Oceania
+880,Towels,1565739913908,Gutkowski - Wolf Inc,Home,525,12838€,2.42,262,330,1488591290872,America
+880,Towels,1565739913908,Gutkowski - Wolf Inc,Home,525,12838€,2.42,262,355,1544708085179,Africa
+880,Towels,1565739913908,Gutkowski - Wolf Inc,Home,525,12838€,2.42,262,67,1561991498002,America
+880,Towels,1565739913908,Gutkowski - Wolf Inc,Home,525,12838€,2.42,262,980,1580300444180,Asia
+880,Towels,1565739913908,Gutkowski - Wolf Inc,Home,525,12838€,2.42,262,235,1599060854304,America
+880,Towels,1565739913908,Gutkowski - Wolf Inc,Home,525,12838€,2.42,262,595,1650735686597,America
+235,Pizza,1611438079217,Wintheiser - Ankunding Group,Computers,527,2480€,1.2,606,29,1533180953539,America
+722,Shoes,1590225263057,Wuckert - Schaefer Inc,Jewelery,528,1250€,2.46,780,868,1632970441028,Oceania
+370,Pizza,1524746250922,Schumm - Bailey Inc,Automotive,529,2394€,0.65,962,842,1618787970558,Oceania
+258,Table,1638905390429,Casper - Doyle and Sons,Outdoors,532,2924€,3.94,563,849,1590505742258,Asia
+288,Pizza,1610237596075,Hettinger - Kirlin Inc,Garden,533,5040€,4.36,63,153,1410668468777,Asia
+288,Pizza,1610237596075,Hettinger - Kirlin Inc,Garden,533,5040€,3.0,228,781,1441076547868,Asia
+288,Pizza,1610237596075,Hettinger - Kirlin Inc,Garden,533,5040€,3.0,228,149,1463065314171,America
+288,Pizza,1610237596075,Hettinger - Kirlin Inc,Garden,533,5040€,2.42,803,172,1413860075274,Europe
+112,Car,1483233699046,"Huel, Leannon and Volkman Inc",Toys,534,2751€,2.99,223,987,1395843322168,Africa
+576,Car,1465933735470,"D'Amore, Kirlin and Mueller LLC",Books,536,5208€,1.08,718,289,1496544448296,Africa
+576,Car,1465933735470,"D'Amore, Kirlin and Mueller LLC",Books,536,5208€,1.08,718,198,1563285192023,Oceania
+576,Car,1465933735470,"D'Amore, Kirlin and Mueller LLC",Books,536,5208€,2.72,802,134,1494467025137,Asia
+859,Hat,1513135438239,Ortiz Inc LLC,Books,537,5916€,1.28,485,833,1599524921830,Asia
+813,Mouse,1514040388064,Roberts and Sons Group,Outdoors,538,11398€,2.49,942,891,1482333045939,Oceania
+813,Mouse,1514040388064,Roberts and Sons Group,Outdoors,538,11398€,2.49,942,601,1526012738559,Asia
+795,Hat,1459968504717,"Dickens, Murphy and Nikolaus and Sons",Automotive,539,7592€,2.83,56,647,1395515714130,Africa
+795,Hat,1459968504717,"Dickens, Murphy and Nikolaus and Sons",Automotive,539,7592€,2.83,56,711,1411210365123,Asia
+795,Hat,1459968504717,"Dickens, Murphy and Nikolaus and Sons",Automotive,539,7592€,2.83,56,363,1494906493168,America
+795,Hat,1459968504717,"Dickens, Murphy and Nikolaus and Sons",Automotive,539,7592€,2.83,56,932,1569293802465,America
+795,Hat,1459968504717,"Dickens, Murphy and Nikolaus and Sons",Automotive,539,7592€,4.02,635,769,1465215445449,Europe
+795,Hat,1459968504717,"Dickens, Murphy and Nikolaus and Sons",Automotive,539,7592€,4.02,635,933,1584821271650,Asia
+795,Hat,1459968504717,"Dickens, Murphy and Nikolaus and Sons",Automotive,539,7592€,3.12,870,340,1543573983673,America
+571,Salad,1586824013289,Tremblay - Hirthe LLC,Music,540,3276€,2.28,532,462,1532075920814,Asia
+571,Salad,1586824013289,Tremblay - Hirthe LLC,Music,540,3276€,2.28,532,206,1648814898173,Oceania
+518,Salad,1505761101615,Hills - Rodriguez Group,Toys,542,5767€,3.56,885,773,1477891914336,Oceania
+518,Salad,1505761101615,Hills - Rodriguez Group,Toys,542,5767€,3.56,885,872,1498363520589,Africa
+970,Pizza,1507058631068,O'Reilly - Hahn LLC,Music,543,10476€,2.41,421,686,1561690864850,Africa
+970,Pizza,1507058631068,O'Reilly - Hahn LLC,Music,543,10476€,3.28,973,167,1533823309080,Europe
+679,Chicken,1399912326234,Cartwright and Sons Inc,Home,545,1035€,0.51,961,730,1546907248200,America
+136,Table,1547315335029,"King, Schamberger and Glover Inc",Garden,546,14155€,1.13,170,106,1451278921823,Oceania
+136,Table,1547315335029,"King, Schamberger and Glover Inc",Garden,546,14155€,1.13,170,219,1636212979789,Oceania
+226,Pizza,1462256779068,Turcotte Inc and Sons,Jewelery,547,3780€,4.46,596,42,1401445627767,Africa
+226,Pizza,1462256779068,Turcotte Inc and Sons,Jewelery,547,3780€,4.46,596,207,1434839939937,Africa
+226,Pizza,1462256779068,Turcotte Inc and Sons,Jewelery,547,3780€,4.46,596,347,1464384477874,Africa
+226,Pizza,1462256779068,Turcotte Inc and Sons,Jewelery,547,3780€,4.46,596,754,1519281890922,Oceania
+226,Pizza,1462256779068,Turcotte Inc and Sons,Jewelery,547,3780€,4.46,596,407,1624275794404,Africa
+688,Shoes,1399183326546,"Schimmel, Schmitt and Considine and Sons",Garden,548,11060€,4.04,489,502,1583228858888,Europe
+751,Soap,1607610205185,Grady - Cartwright LLC,Garden,550,1350€,0.21,718,289,1496544448296,Africa
+751,Soap,1607610205185,Grady - Cartwright LLC,Garden,550,1350€,0.21,718,198,1563285192023,Oceania
+542,Ball,1614126933901,Grant LLC and Sons,Clothing,551,238€,4.59,436,656,1536944723353,America
+664,Chicken,1631363441677,Dietrich - Beahan and Sons,Beauty,553,1824€,0.06,233,996,1540104150915,Oceania
+427,Car,1528852455797,Lebsack Group LLC,Computers,555,284€,3.21,785,223,1635515197301,Oceania
+427,Car,1528852455797,Lebsack Group LLC,Computers,555,284€,3.58,961,730,1546907248200,America
+628,Car,1618348845155,Daniel Group and Sons,Grocery,556,9680€,4.57,613,295,1479236872969,Europe
+628,Car,1618348845155,Daniel Group and Sons,Grocery,556,9680€,2.04,887,255,1539907289727,America
+382,Hat,1550538200889,"Treutel, Bruen and Hagenes Inc",Movies,561,4662€,2.72,629,214,1426822235368,Europe
+382,Hat,1550538200889,"Treutel, Bruen and Hagenes Inc",Movies,561,4662€,2.72,629,188,1451186095981,Asia
+382,Hat,1550538200889,"Treutel, Bruen and Hagenes Inc",Movies,561,4662€,0.0,693,689,1606890310213,Europe
+576,Car,1465933735470,"D'Amore, Kirlin and Mueller LLC",Books,563,3234€,1.08,718,289,1496544448296,Africa
+576,Car,1465933735470,"D'Amore, Kirlin and Mueller LLC",Books,563,3234€,1.08,718,198,1563285192023,Oceania
+576,Car,1465933735470,"D'Amore, Kirlin and Mueller LLC",Books,563,3234€,2.72,802,134,1494467025137,Asia
+267,Soap,1404591568897,Jacobi - Emard and Sons,Beauty,566,3053€,0.4,693,689,1606890310213,Europe
+776,Bacon,1530752271058,"Pouros, O'Kon and Pouros Group",Jewelery,567,980€,3.99,413,398,1615397132623,Africa
+776,Bacon,1530752271058,"Pouros, O'Kon and Pouros Group",Jewelery,567,980€,1.79,930,290,1543969513248,America
+776,Bacon,1530752271058,"Pouros, O'Kon and Pouros Group",Jewelery,567,980€,1.79,930,405,1577665033065,Europe
+776,Bacon,1530752271058,"Pouros, O'Kon and Pouros Group",Jewelery,567,980€,1.79,930,32,1609902636791,Oceania
+296,Car,1534841198922,Tremblay - Ullrich and Sons,Beauty,572,864€,3.07,381,729,1412748915501,Europe
+296,Car,1534841198922,Tremblay - Ullrich and Sons,Beauty,572,864€,3.07,381,789,1531740864537,Africa
+296,Car,1534841198922,Tremblay - Ullrich and Sons,Beauty,572,864€,3.07,381,953,1603701392668,Oceania
+296,Car,1534841198922,Tremblay - Ullrich and Sons,Beauty,572,864€,0.1,418,211,1409492189078,America
+296,Car,1534841198922,Tremblay - Ullrich and Sons,Beauty,572,864€,0.1,418,148,1446868081608,America
+296,Car,1534841198922,Tremblay - Ullrich and Sons,Beauty,572,864€,4.99,872,117,1478904324936,Africa
+435,Cheese,1524660265841,Beier and Sons and Sons,Sports,573,450€,3.43,715,888,1549147659868,Asia
+897,Pizza,1643552207971,"Grimes, Grady and Friesen and Sons",Grocery,574,7056€,3.27,219,432,1418219149510,America
+747,Computer,1596948397604,Smith - Funk LLC,Books,575,5928€,3.44,984,727,1416284840077,Oceania
+932,Ball,1487267971995,Kilback LLC and Sons,Beauty,576,1809€,2.74,270,181,1395399920120,Asia
+932,Ball,1487267971995,Kilback LLC and Sons,Beauty,576,1809€,2.74,270,191,1517573784080,Africa
+932,Ball,1487267971995,Kilback LLC and Sons,Beauty,576,1809€,2.74,270,516,1566213259208,America
+932,Ball,1487267971995,Kilback LLC and Sons,Beauty,576,1809€,4.13,557,220,1407500184215,Africa
+932,Ball,1487267971995,Kilback LLC and Sons,Beauty,576,1809€,4.13,557,693,1513483213324,Africa
+656,Computer,1648896549942,"Lindgren, Hegmann and Rau Group",Shoes,577,8184€,2.29,522,460,1560383773373,America
+295,Chair,1556807053662,Rippin LLC Group,Baby,578,1482€,0.22,58,409,1460717535478,Africa
+295,Chair,1556807053662,Rippin LLC Group,Baby,578,1482€,3.49,386,2,1558129602221,Oceania
+967,Fish,1429371525733,DuBuque - Watsica and Sons,Industrial,584,5310€,4.88,592,697,1422070541055,Asia
+967,Fish,1429371525733,DuBuque - Watsica and Sons,Industrial,584,5310€,4.88,592,486,1521021158849,Oceania
+496,Keyboard,1498112593422,Stokes - Quitzon and Sons,Grocery,586,9520€,0.6,510,115,1441026519693,Africa
+496,Keyboard,1498112593422,Stokes - Quitzon and Sons,Grocery,586,9520€,0.6,510,808,1506696826693,Oceania
+496,Keyboard,1498112593422,Stokes - Quitzon and Sons,Grocery,586,9520€,0.6,510,586,1571810229250,Africa
+302,Bacon,1465945124030,Purdy Group Inc,Kids,589,6474€,4.88,817,508,1434327163163,Asia
+302,Bacon,1465945124030,Purdy Group Inc,Kids,589,6474€,3.42,825,118,1511166398853,America
+500,Mouse,1604852961071,Metz Group LLC,Sports,590,1012€,4.61,80,673,1420620735145,Africa
+500,Mouse,1604852961071,Metz Group LLC,Sports,590,1012€,4.61,80,768,1583511656019,Europe
+11,Computer,1402534831408,Feeney LLC Group,Computers,593,10184€,0.03,27,721,1540835377413,Oceania
+609,Shirt,1547299786766,"Hintz, Huels and Herzog LLC",Industrial,594,605€,3.25,238,665,1411885293570,Oceania
+609,Shirt,1547299786766,"Hintz, Huels and Herzog LLC",Industrial,594,605€,3.25,238,512,1574120137238,America
+363,Shirt,1407136762651,"Hammes, Lueilwitz and Langosh and Sons",Automotive,597,1107€,0.52,14,790,1428889324657,America
+363,Shirt,1407136762651,"Hammes, Lueilwitz and Langosh and Sons",Automotive,597,1107€,0.52,14,778,1498208692808,America
+363,Shirt,1407136762651,"Hammes, Lueilwitz and Langosh and Sons",Automotive,597,1107€,0.52,14,244,1594482325162,Oceania
+818,Shirt,1394653823885,Kunde LLC and Sons,Jewelery,599,186€,2.83,592,697,1422070541055,Asia
+818,Shirt,1394653823885,Kunde LLC and Sons,Jewelery,599,186€,2.83,592,486,1521021158849,Oceania
+157,Fish,1472844067416,"Kshlerin, Bechtelar and Rippin Inc",Shoes,600,2916€,2.52,313,203,1408737612679,America
+157,Fish,1472844067416,"Kshlerin, Bechtelar and Rippin Inc",Shoes,600,2916€,2.52,313,6,1448534371060,Africa
+157,Fish,1472844067416,"Kshlerin, Bechtelar and Rippin Inc",Shoes,600,2916€,1.58,587,489,1523537880592,Asia
+157,Fish,1472844067416,"Kshlerin, Bechtelar and Rippin Inc",Shoes,600,2916€,1.58,587,249,1572325408034,America
+235,Pizza,1611438079217,Wintheiser - Ankunding Group,Computers,603,158€,1.2,606,29,1533180953539,America
+38,Soap,1521637659304,Schaden - Roob Group,Shoes,604,3024€,3.12,355,254,1491769255380,Oceania
+38,Soap,1521637659304,Schaden - Roob Group,Shoes,604,3024€,3.12,355,466,1587334909553,Oceania
+38,Soap,1521637659304,Schaden - Roob Group,Shoes,604,3024€,0.46,686,799,1482789928973,Europe
+696,Salad,1582460859576,"Trantow, Breitenberg and Kovacek and Sons",Books,605,1275€,0.83,411,417,1585693350613,Oceania
+830,Pizza,1432603793777,Turner Group LLC,Automotive,606,588€,0.54,715,888,1549147659868,Asia
+511,Salad,1560175341449,Runolfsdottir LLC LLC,Home,609,3696€,2.06,197,461,1491957170101,Africa
+755,Shoes,1651043297954,Satterfield - Stiedemann LLC,Kids,613,1632€,2.18,385,587,1636531175853,Africa
+755,Shoes,1651043297954,Satterfield - Stiedemann LLC,Kids,613,1632€,0.14,758,133,1432541682850,Africa
+755,Shoes,1651043297954,Satterfield - Stiedemann LLC,Kids,613,1632€,1.86,899,369,1565994957207,Africa
+157,Fish,1472844067416,"Kshlerin, Bechtelar and Rippin Inc",Shoes,614,1067€,2.52,313,203,1408737612679,America
+157,Fish,1472844067416,"Kshlerin, Bechtelar and Rippin Inc",Shoes,614,1067€,2.52,313,6,1448534371060,Africa
+157,Fish,1472844067416,"Kshlerin, Bechtelar and Rippin Inc",Shoes,614,1067€,1.58,587,489,1523537880592,Asia
+157,Fish,1472844067416,"Kshlerin, Bechtelar and Rippin Inc",Shoes,614,1067€,1.58,587,249,1572325408034,America
+81,Car,1447905567246,O'Conner - Hirthe Inc,Sports,616,10080€,2.11,517,52,1440494427639,America
+81,Car,1447905567246,O'Conner - Hirthe Inc,Sports,616,10080€,2.11,517,227,1590916501088,Oceania
+948,Table,1648108205262,"Towne, Leannon and Kassulke LLC",Beauty,617,6350€,4.59,389,949,1511193222526,America
+792,Tuna,1586630462545,Swaniawski Inc and Sons,Sports,618,2890€,4.13,491,947,1493496279124,Europe
+288,Pizza,1610237596075,Hettinger - Kirlin Inc,Garden,619,7182€,4.36,63,153,1410668468777,Asia
+288,Pizza,1610237596075,Hettinger - Kirlin Inc,Garden,619,7182€,3.0,228,781,1441076547868,Asia
+288,Pizza,1610237596075,Hettinger - Kirlin Inc,Garden,619,7182€,3.0,228,149,1463065314171,America
+288,Pizza,1610237596075,Hettinger - Kirlin Inc,Garden,619,7182€,2.42,803,172,1413860075274,Europe
+295,Chair,1556807053662,Rippin LLC Group,Baby,621,10320€,0.22,58,409,1460717535478,Africa
+295,Chair,1556807053662,Rippin LLC Group,Baby,621,10320€,3.49,386,2,1558129602221,Oceania
+528,Gloves,1590546237294,Kunde and Sons and Sons,Music,622,5704€,2.99,683,950,1607208248525,Asia
+698,Bike,1522683246128,Nienow - Beer and Sons,Books,623,14259€,4.72,13,624,1472073448608,Asia
+294,Keyboard,1401891410163,"Jaskolski, Kulas and Lang LLC",Tools,624,1176€,0.31,237,107,1593044660261,Africa
+490,Salad,1538268658521,Dach - Abshire LLC,Grocery,626,4425€,4.81,268,130,1580490918365,Oceania
+592,Chips,1612582344718,"Schumm, Greenfelder and Ruecker Group",Toys,627,6080€,2.39,288,16,1453925830179,Asia
+592,Chips,1612582344718,"Schumm, Greenfelder and Ruecker Group",Toys,627,6080€,2.39,288,55,1566556422423,America
+478,Cheese,1399872465541,"Schneider, Halvorson and Friesen Group",Clothing,630,4970€,0.32,975,696,1467511706245,Africa
+478,Cheese,1399872465541,"Schneider, Halvorson and Friesen Group",Clothing,630,4970€,0.32,975,523,1575398473067,Europe
+478,Cheese,1399872465541,"Schneider, Halvorson and Friesen Group",Clothing,630,4970€,0.32,975,699,1633179776123,Africa
+804,Chair,1544250896783,"Hudson, Crona and Kuhlman Inc",Electronics,638,3456€,3.68,254,907,1525496258349,Oceania
+804,Chair,1544250896783,"Hudson, Crona and Kuhlman Inc",Electronics,638,3456€,3.68,254,105,1560204500125,Asia
+804,Chair,1544250896783,"Hudson, Crona and Kuhlman Inc",Electronics,638,3456€,3.68,254,865,1572068276286,Europe
+804,Chair,1544250896783,"Hudson, Crona and Kuhlman Inc",Electronics,638,3456€,3.68,254,13,1643480481537,Europe
+706,Chips,1417514417458,"King, Becker and Hayes LLC",Toys,640,2996€,4.66,672,971,1639564364710,America
+707,Mouse,1523948237006,Koch and Sons Group,Sports,641,810€,0.67,794,538,1541741831096,Europe
+724,Pizza,1538418020033,Schaden - Watsica Group,Sports,643,14652€,3.65,620,906,1575037995941,Africa
+489,Tuna,1539411675406,Greenfelder and Sons Group,Sports,644,8500€,3.97,251,760,1402472667854,Asia
+489,Tuna,1539411675406,Greenfelder and Sons Group,Sports,644,8500€,3.97,251,795,1512023123112,Europe
+489,Tuna,1539411675406,Greenfelder and Sons Group,Sports,644,8500€,3.97,251,400,1617004201919,Asia
+868,Gloves,1409699522620,Tromp - Sanford LLC,Games,646,232€,0.52,936,734,1537122685874,Asia
+703,Gloves,1599935332585,Nienow - Torp Inc,Beauty,647,1680€,4.68,248,550,1631034230157,Africa
+703,Gloves,1599935332585,Nienow - Torp Inc,Beauty,647,1680€,2.12,324,150,1405730522339,America
+703,Gloves,1599935332585,Nienow - Torp Inc,Beauty,647,1680€,3.95,751,712,1641535758253,Asia
+703,Gloves,1599935332585,Nienow - Torp Inc,Beauty,647,1680€,3.54,997,132,1404714992833,Asia
+703,Gloves,1599935332585,Nienow - Torp Inc,Beauty,647,1680€,3.54,997,973,1569435138673,Africa
+963,Table,1538859746328,Quitzon - Heller Inc,Electronics,652,6603€,2.71,657,744,1435334515112,Europe
+646,Salad,1422159372052,Rutherford Group Group,Games,655,2516€,0.57,110,125,1437647275196,Africa
+646,Salad,1422159372052,Rutherford Group Group,Games,655,2516€,4.94,690,570,1494544631393,America
+493,Computer,1427136564300,Rice Inc Group,Industrial,659,2784€,1.43,423,977,1601958182034,Oceania
+775,Computer,1505542015466,"Deckow, Dickens and Kohler LLC",Beauty,660,1612€,4.96,797,127,1470012519290,Africa
+775,Computer,1505542015466,"Deckow, Dickens and Kohler LLC",Beauty,660,1612€,4.96,797,389,1503428636013,Africa
+775,Computer,1505542015466,"Deckow, Dickens and Kohler LLC",Beauty,660,1612€,4.96,797,681,1528400210823,Oceania
+775,Computer,1505542015466,"Deckow, Dickens and Kohler LLC",Beauty,660,1612€,4.96,797,110,1643428254884,Oceania
+656,Computer,1648896549942,"Lindgren, Hegmann and Rau Group",Shoes,663,11600€,2.29,522,460,1560383773373,America
+443,Fish,1413405779608,McCullough - Anderson and Sons,Beauty,665,1326€,1.44,671,637,1642430898645,Oceania
+443,Fish,1413405779608,McCullough - Anderson and Sons,Beauty,665,1326€,2.84,764,674,1538083344753,America
+964,Pizza,1540343962634,"Altenwerth, Borer and Volkman Inc",Outdoors,666,3036€,0.17,684,707,1426730073671,Europe
+328,Salad,1491362846323,"Prosacco, Swaniawski and Rutherford and Sons",Garden,668,5642€,3.25,205,435,1590210643177,Europe
+328,Salad,1491362846323,"Prosacco, Swaniawski and Rutherford and Sons",Garden,668,5642€,4.05,213,593,1544632756402,Oceania
+328,Salad,1491362846323,"Prosacco, Swaniawski and Rutherford and Sons",Garden,668,5642€,4.05,213,121,1545474676097,Europe
+681,Pizza,1634408597015,Willms - Kerluke LLC,Books,670,6254€,1.92,274,174,1625542987981,Oceania
+804,Chair,1544250896783,"Hudson, Crona and Kuhlman Inc",Electronics,675,1843€,3.68,254,907,1525496258349,Oceania
+804,Chair,1544250896783,"Hudson, Crona and Kuhlman Inc",Electronics,675,1843€,3.68,254,105,1560204500125,Asia
+804,Chair,1544250896783,"Hudson, Crona and Kuhlman Inc",Electronics,675,1843€,3.68,254,865,1572068276286,Europe
+804,Chair,1544250896783,"Hudson, Crona and Kuhlman Inc",Electronics,675,1843€,3.68,254,13,1643480481537,Europe
+919,Mouse,1442178485860,Crist Inc Inc,Books,677,8379€,4.51,85,484,1630065902799,America
+919,Mouse,1442178485860,Crist Inc Inc,Books,677,8379€,1.69,309,791,1646206863869,America
+919,Mouse,1442178485860,Crist Inc Inc,Books,677,8379€,3.82,493,303,1416296448999,America
+919,Mouse,1442178485860,Crist Inc Inc,Books,677,8379€,3.82,493,846,1603950626091,Africa
+945,Car,1431087617368,"Swaniawski, Veum and Bailey LLC",Home,678,6912€,0.49,864,1,1618512203586,Asia
+123,Salad,1597336816673,Rohan and Sons and Sons,Jewelery,680,9504€,2.55,896,567,1433413795225,Africa
+123,Salad,1597336816673,Rohan and Sons and Sons,Jewelery,680,9504€,2.55,896,444,1442661837395,Oceania
+123,Salad,1597336816673,Rohan and Sons and Sons,Jewelery,680,9504€,2.55,896,560,1614326507478,Europe
+447,Bacon,1485712497211,"Weimann, Bins and Flatley LLC",Toys,681,1260€,2.65,492,305,1396935280790,America
+534,Keyboard,1509876425831,Schoen - Heidenreich and Sons,Computers,684,882€,4.96,102,615,1405008573676,Europe
+736,Hat,1523259841647,DuBuque - Roob Group,Music,685,3175€,3.3,923,31,1601615057800,Africa
+265,Sausages,1436162761669,"Thiel, Mertz and O'Hara Inc",Automotive,688,1168€,1.03,527,233,1445311344196,America
+265,Sausages,1436162761669,"Thiel, Mertz and O'Hara Inc",Automotive,688,1168€,1.03,527,70,1458070316743,Asia
+265,Sausages,1436162761669,"Thiel, Mertz and O'Hara Inc",Automotive,688,1168€,1.03,527,714,1532209846723,Europe
+265,Sausages,1436162761669,"Thiel, Mertz and O'Hara Inc",Automotive,688,1168€,3.86,533,44,1566992426228,Africa
+265,Sausages,1436162761669,"Thiel, Mertz and O'Hara Inc",Automotive,688,1168€,3.86,533,341,1618313061430,America
+841,Ball,1607096168659,Wilderman - Berge LLC,Toys,690,5376€,3.78,923,31,1601615057800,Africa
+858,Ball,1528310121053,Daniel and Sons LLC,Clothing,691,5856€,3.44,99,381,1512059386113,America
+358,Cheese,1637364555229,Paucek Group Inc,Grocery,695,1188€,0.11,186,836,1490403282827,Africa
+358,Cheese,1637364555229,Paucek Group Inc,Grocery,695,1188€,0.11,186,663,1573154316900,Africa
+358,Cheese,1637364555229,Paucek Group Inc,Grocery,695,1188€,4.42,188,224,1424194861552,Europe
+358,Cheese,1637364555229,Paucek Group Inc,Grocery,695,1188€,4.42,188,566,1456364804797,Oceania
+358,Cheese,1637364555229,Paucek Group Inc,Grocery,695,1188€,4.42,188,57,1609541236668,Europe
+358,Cheese,1637364555229,Paucek Group Inc,Grocery,695,1188€,4.42,188,438,1617830863720,Europe
+358,Cheese,1637364555229,Paucek Group Inc,Grocery,695,1188€,2.57,759,664,1489010043186,Europe
+358,Cheese,1637364555229,Paucek Group Inc,Grocery,695,1188€,2.57,759,325,1586036905045,America
+358,Cheese,1637364555229,Paucek Group Inc,Grocery,695,1188€,2.4,956,521,1616937363343,America
+288,Pizza,1610237596075,Hettinger - Kirlin Inc,Garden,696,10208€,4.36,63,153,1410668468777,Asia
+288,Pizza,1610237596075,Hettinger - Kirlin Inc,Garden,696,10208€,3.0,228,781,1441076547868,Asia
+288,Pizza,1610237596075,Hettinger - Kirlin Inc,Garden,696,10208€,3.0,228,149,1463065314171,America
+288,Pizza,1610237596075,Hettinger - Kirlin Inc,Garden,696,10208€,2.42,803,172,1413860075274,Europe
+775,Computer,1505542015466,"Deckow, Dickens and Kohler LLC",Beauty,698,4216€,4.96,797,127,1470012519290,Africa
+775,Computer,1505542015466,"Deckow, Dickens and Kohler LLC",Beauty,698,4216€,4.96,797,389,1503428636013,Africa
+775,Computer,1505542015466,"Deckow, Dickens and Kohler LLC",Beauty,698,4216€,4.96,797,681,1528400210823,Oceania
+775,Computer,1505542015466,"Deckow, Dickens and Kohler LLC",Beauty,698,4216€,4.96,797,110,1643428254884,Oceania
+448,Bacon,1553123602126,"Mante, Effertz and Gleason LLC",Music,700,6790€,0.53,481,35,1470444397171,Oceania
+309,Ball,1489667067194,Jerde - Romaguera LLC,Tools,701,212€,4.4,379,901,1569823690166,America
+161,Bike,1401934725659,Cruickshank - Ankunding Group,Books,702,9928€,1.81,620,906,1575037995941,Africa
+256,Fish,1581565943830,Hermann Inc LLC,Movies,703,618€,2.51,527,233,1445311344196,America
+256,Fish,1581565943830,Hermann Inc LLC,Movies,703,618€,2.51,527,70,1458070316743,Asia
+256,Fish,1581565943830,Hermann Inc LLC,Movies,703,618€,2.51,527,714,1532209846723,Europe
+734,Fish,1538302114587,Schneider Group Group,Beauty,707,924€,2.0,414,902,1482571891211,Africa
+734,Fish,1538302114587,Schneider Group Group,Beauty,707,924€,0.44,972,306,1636587457076,America
+665,Chair,1605107568358,"Champlin, Schaden and Jacobson Group",Music,709,2142€,2.2,593,275,1486715902170,America
+333,Fish,1634716148401,Leuschke and Sons LLC,Games,715,4180€,0.36,570,876,1548364094731,Oceania
+333,Fish,1634716148401,Leuschke and Sons LLC,Games,715,4180€,0.36,570,216,1563895481717,Europe
+495,Mouse,1519209047136,"Nikolaus, Shanahan and Nitzsche and Sons",Outdoors,718,5022€,2.78,50,517,1396969996302,Oceania
+495,Mouse,1519209047136,"Nikolaus, Shanahan and Nitzsche and Sons",Outdoors,718,5022€,2.78,50,638,1442014573680,America
+495,Mouse,1519209047136,"Nikolaus, Shanahan and Nitzsche and Sons",Outdoors,718,5022€,2.73,297,690,1420638679788,America
+65,Fish,1564067681359,"Shanahan, Schulist and Robel LLC",Industrial,719,2337€,1.92,405,137,1447910484048,Oceania
+65,Fish,1564067681359,"Shanahan, Schulist and Robel LLC",Industrial,719,2337€,1.92,405,277,1516813366045,Africa
+65,Fish,1564067681359,"Shanahan, Schulist and Robel LLC",Industrial,719,2337€,1.92,405,252,1548457880227,Oceania
+65,Fish,1564067681359,"Shanahan, Schulist and Robel LLC",Industrial,719,2337€,1.92,405,565,1567878701420,Oceania
+65,Fish,1564067681359,"Shanahan, Schulist and Robel LLC",Industrial,719,2337€,1.92,405,247,1607426343749,Oceania
+65,Fish,1564067681359,"Shanahan, Schulist and Robel LLC",Industrial,719,2337€,2.83,620,906,1575037995941,Africa
+136,Table,1547315335029,"King, Schamberger and Glover Inc",Garden,720,2920€,1.13,170,106,1451278921823,Oceania
+136,Table,1547315335029,"King, Schamberger and Glover Inc",Garden,720,2920€,1.13,170,219,1636212979789,Oceania
+712,Fish,1401052045710,Nolan - Johnson Group,Electronics,722,3408€,3.06,162,641,1491624085024,Africa
+712,Fish,1401052045710,Nolan - Johnson Group,Electronics,722,3408€,3.06,162,967,1536585588898,Oceania
+712,Fish,1401052045710,Nolan - Johnson Group,Electronics,722,3408€,1.25,249,273,1525754760367,Oceania
+633,Towels,1552019873213,Dooley - Weissnat Group,Health,727,6580€,2.53,609,999,1457332724048,Europe
+633,Towels,1552019873213,Dooley - Weissnat Group,Health,727,6580€,2.53,609,92,1632515405213,Africa
+46,Cheese,1439576208132,Thompson - Lemke Inc,Beauty,728,2183€,4.4,911,358,1450130359544,Asia
+46,Cheese,1439576208132,Thompson - Lemke Inc,Beauty,728,2183€,4.4,911,993,1574568541516,Africa
+696,Salad,1582460859576,"Trantow, Breitenberg and Kovacek and Sons",Books,730,10070€,0.83,411,417,1585693350613,Oceania
+20,Pants,1418335816033,Bashirian - Davis and Sons,Shoes,733,4992€,2.43,533,44,1566992426228,Africa
+20,Pants,1418335816033,Bashirian - Davis and Sons,Shoes,733,4992€,2.43,533,341,1618313061430,America
+751,Soap,1607610205185,Grady - Cartwright LLC,Garden,735,9010€,0.21,718,289,1496544448296,Africa
+751,Soap,1607610205185,Grady - Cartwright LLC,Garden,735,9010€,0.21,718,198,1563285192023,Oceania
+351,Shoes,1418933176226,"Quitzon, Heller and Williamson LLC",Outdoors,736,5015€,4.15,264,455,1537136975609,Africa
+571,Salad,1586824013289,Tremblay - Hirthe LLC,Music,738,2322€,2.28,532,462,1532075920814,Asia
+571,Salad,1586824013289,Tremblay - Hirthe LLC,Music,738,2322€,2.28,532,206,1648814898173,Oceania
+560,Tuna,1513573969320,"Oberbrunner, Effertz and Kreiger Group",Shoes,739,9660€,3.18,799,143,1416461171885,Africa
+560,Tuna,1513573969320,"Oberbrunner, Effertz and Kreiger Group",Shoes,739,9660€,3.18,799,452,1435065126391,Oceania
+603,Soap,1635353724215,"Williamson, Koepp and Prosacco LLC",Baby,740,1008€,2.43,19,141,1553869484609,Asia
+603,Soap,1635353724215,"Williamson, Koepp and Prosacco LLC",Baby,740,1008€,2.43,19,562,1560653886270,Asia
+3,Tuna,1426044835403,Stamm - Little and Sons,Clothing,741,1908€,3.97,315,605,1444953074727,Europe
+3,Tuna,1426044835403,Stamm - Little and Sons,Clothing,741,1908€,3.97,315,66,1545705520482,Africa
+3,Tuna,1426044835403,Stamm - Little and Sons,Clothing,741,1908€,4.1,331,939,1631422584849,Oceania
+3,Tuna,1426044835403,Stamm - Little and Sons,Clothing,741,1908€,0.57,941,783,1390071421858,America
+922,Chair,1417750577389,Kuhic LLC Inc,Jewelery,743,9064€,1.75,637,424,1399597489142,America
+922,Chair,1417750577389,Kuhic LLC Inc,Jewelery,743,9064€,1.75,637,447,1451467632931,Europe
+627,Chips,1466781597283,"Becker, Leffler and Senger Group",Kids,745,2623€,3.66,164,431,1394594323826,Oceania
+627,Chips,1466781597283,"Becker, Leffler and Senger Group",Kids,745,2623€,3.66,164,904,1414977286276,Europe
+627,Chips,1466781597283,"Becker, Leffler and Senger Group",Kids,745,2623€,3.66,164,951,1616102525821,Africa
+468,Mouse,1532647393794,Stark - Parker LLC,Garden,746,5429€,2.25,366,892,1522873348189,Oceania
+468,Mouse,1532647393794,Stark - Parker LLC,Garden,746,5429€,2.25,366,809,1605924566430,Europe
+468,Mouse,1532647393794,Stark - Parker LLC,Garden,746,5429€,2.25,366,296,1607426902028,Asia
+363,Shirt,1407136762651,"Hammes, Lueilwitz and Langosh and Sons",Automotive,747,4956€,0.52,14,790,1428889324657,America
+363,Shirt,1407136762651,"Hammes, Lueilwitz and Langosh and Sons",Automotive,747,4956€,0.52,14,778,1498208692808,America
+363,Shirt,1407136762651,"Hammes, Lueilwitz and Langosh and Sons",Automotive,747,4956€,0.52,14,244,1594482325162,Oceania
+836,Chips,1589553634957,Wiegand - Macejkovic Group,Baby,748,2814€,2.5,47,511,1645632680824,Asia
+836,Chips,1589553634957,Wiegand - Macejkovic Group,Baby,748,2814€,2.69,452,622,1540552054132,Oceania
+836,Chips,1589553634957,Wiegand - Macejkovic Group,Baby,748,2814€,2.69,452,194,1616921767777,Europe
+836,Chips,1589553634957,Wiegand - Macejkovic Group,Baby,748,2814€,3.45,961,730,1546907248200,America
+942,Soap,1445537740468,Mitchell Group and Sons,Garden,754,3315€,4.76,164,431,1394594323826,Oceania
+942,Soap,1445537740468,Mitchell Group and Sons,Garden,754,3315€,4.76,164,904,1414977286276,Europe
+942,Soap,1445537740468,Mitchell Group and Sons,Garden,754,3315€,4.76,164,951,1616102525821,Africa
+258,Table,1638905390429,Casper - Doyle and Sons,Outdoors,756,6887€,3.94,563,849,1590505742258,Asia
+801,Mouse,1530636482922,Jast - Heidenreich LLC,Tools,757,3828€,0.82,307,861,1563609682502,Africa
+394,Shoes,1591233648827,"Wilkinson, Stoltenberg and Ratke Inc",Toys,758,104€,1.03,785,223,1635515197301,Oceania
+566,Towels,1396331531697,Rau - Haag Inc,Movies,760,861€,4.6,102,615,1405008573676,Europe
+566,Towels,1396331531697,Rau - Haag Inc,Movies,760,861€,1.18,536,15,1417661625104,Asia
+23,Computer,1444551562217,Bauch - Lebsack Inc,Health,761,1164€,2.09,496,537,1532243659676,Africa
+23,Computer,1444551562217,Bauch - Lebsack Inc,Health,761,1164€,2.09,496,909,1542370977354,Oceania
+23,Computer,1444551562217,Bauch - Lebsack Inc,Health,761,1164€,2.09,496,485,1644702016784,Africa
+603,Soap,1635353724215,"Williamson, Koepp and Prosacco LLC",Baby,763,6853€,2.43,19,141,1553869484609,Asia
+603,Soap,1635353724215,"Williamson, Koepp and Prosacco LLC",Baby,763,6853€,2.43,19,562,1560653886270,Asia
+123,Salad,1597336816673,Rohan and Sons and Sons,Jewelery,764,3630€,2.55,896,567,1433413795225,Africa
+123,Salad,1597336816673,Rohan and Sons and Sons,Jewelery,764,3630€,2.55,896,444,1442661837395,Oceania
+123,Salad,1597336816673,Rohan and Sons and Sons,Jewelery,764,3630€,2.55,896,560,1614326507478,Europe
+15,Mouse,1618977022581,Bahringer Inc LLC,Beauty,767,5054€,3.83,283,147,1483830325822,America
+15,Mouse,1618977022581,Bahringer Inc LLC,Beauty,767,5054€,3.83,283,874,1565030183358,Europe
+15,Mouse,1618977022581,Bahringer Inc LLC,Beauty,767,5054€,0.42,322,72,1567251421046,Africa
+15,Mouse,1618977022581,Bahringer Inc LLC,Beauty,767,5054€,0.42,322,683,1610571334588,Oceania
+15,Mouse,1618977022581,Bahringer Inc LLC,Beauty,767,5054€,2.84,987,74,1480588046464,Oceania
+609,Shirt,1547299786766,"Hintz, Huels and Herzog LLC",Industrial,770,1170€,3.25,238,665,1411885293570,Oceania
+609,Shirt,1547299786766,"Hintz, Huels and Herzog LLC",Industrial,770,1170€,3.25,238,512,1574120137238,America
+180,Mouse,1605452340747,Howell - Hansen and Sons,Kids,772,432€,0.62,248,550,1631034230157,Africa
+814,Keyboard,1569493116394,Terry and Sons Group,Home,773,6552€,2.17,974,554,1564834863968,Europe
+814,Keyboard,1569493116394,Terry and Sons Group,Home,773,6552€,2.17,974,85,1597744259000,America
+327,Soap,1572902778644,"Terry, Hudson and Hayes LLC",Toys,775,13870€,2.0,563,849,1590505742258,Asia
+990,Mouse,1487994546113,Wunsch and Sons and Sons,Movies,777,1640€,0.67,162,641,1491624085024,Africa
+990,Mouse,1487994546113,Wunsch and Sons and Sons,Movies,777,1640€,0.67,162,967,1536585588898,Oceania
+466,Soap,1572575541079,Rau - McKenzie Inc,Home,781,5814€,4.05,309,791,1646206863869,America
+124,Car,1559772729150,Prosacco Inc LLC,Tools,782,2840€,4.12,936,734,1537122685874,Asia
+654,Shirt,1642929660999,Olson Inc and Sons,Games,783,8827€,4.65,820,82,1416836424569,Africa
+654,Shirt,1642929660999,Olson Inc and Sons,Games,783,8827€,4.65,820,839,1466641570027,Europe
+654,Shirt,1642929660999,Olson Inc and Sons,Games,783,8827€,4.65,820,367,1612653930343,Asia
+380,Hat,1531308705588,Russel - Bernhard LLC,Shoes,784,360€,2.11,461,771,1475468129258,Asia
+380,Hat,1531308705588,Russel - Bernhard LLC,Shoes,784,360€,2.11,461,997,1609053244012,Oceania
+380,Hat,1531308705588,Russel - Bernhard LLC,Shoes,784,360€,2.28,767,332,1535463417891,America
+380,Hat,1531308705588,Russel - Bernhard LLC,Shoes,784,360€,2.28,767,748,1621550904914,Africa
+380,Hat,1531308705588,Russel - Bernhard LLC,Shoes,784,360€,2.28,767,752,1642037809816,Africa
+443,Fish,1413405779608,McCullough - Anderson and Sons,Beauty,786,4960€,1.44,671,637,1642430898645,Oceania
+443,Fish,1413405779608,McCullough - Anderson and Sons,Beauty,786,4960€,2.84,764,674,1538083344753,America
+215,Bike,1443887188676,"Padberg, Harvey and Kutch Inc",Music,791,1958€,1.18,117,552,1483508947884,Asia
+215,Bike,1443887188676,"Padberg, Harvey and Kutch Inc",Music,791,1958€,1.18,117,934,1500882266099,Africa
+215,Bike,1443887188676,"Padberg, Harvey and Kutch Inc",Music,791,1958€,1.18,117,109,1577382698443,Africa
+74,Hat,1578214928952,Douglas - Balistreri Group,Industrial,792,3752€,1.99,389,949,1511193222526,America
+53,Pizza,1391438568184,"Thompson, Zulauf and Bartoletti Group",Industrial,795,2128€,3.4,136,385,1452020366290,Oceania
+53,Pizza,1391438568184,"Thompson, Zulauf and Bartoletti Group",Industrial,795,2128€,3.4,136,178,1504857190507,Oceania
+53,Pizza,1391438568184,"Thompson, Zulauf and Bartoletti Group",Industrial,795,2128€,4.34,285,701,1534103388191,Asia
+584,Bike,1428564792260,"Kris, Tromp and Mertz LLC",Grocery,797,2100€,4.26,551,37,1410496606807,Oceania
+640,Shirt,1481548211809,Rohan - Dooley LLC,Health,798,3080€,3.04,517,52,1440494427639,America
+640,Shirt,1481548211809,Rohan - Dooley LLC,Health,798,3080€,3.04,517,227,1590916501088,Oceania
+505,Tuna,1591726517162,Ritchie Group Inc,Baby,799,2928€,0.7,637,424,1399597489142,America
+505,Tuna,1591726517162,Ritchie Group Inc,Baby,799,2928€,0.7,637,447,1451467632931,Europe
+653,Cheese,1449914754450,"Ferry, Schmeler and Huels LLC",Games,801,1360€,3.53,90,518,1489893637075,Asia
+653,Cheese,1449914754450,"Ferry, Schmeler and Huels LLC",Games,801,1360€,2.84,93,725,1412423649931,America
+918,Gloves,1623957013014,"Wintheiser, Upton and Kunze LLC",Electronics,804,6014€,0.92,818,391,1557050803376,Africa
+294,Keyboard,1401891410163,"Jaskolski, Kulas and Lang LLC",Tools,805,1638€,0.31,237,107,1593044660261,Africa
+96,Chair,1580103532017,Maggio and Sons Inc,Electronics,807,5340€,3.49,966,639,1630922276352,Europe
+436,Mouse,1515280436575,"O'Hara, Wisoky and Jacobi Group",Computers,808,810€,1.41,647,50,1409119916877,Europe
+436,Mouse,1515280436575,"O'Hara, Wisoky and Jacobi Group",Computers,808,810€,1.41,647,344,1647754611917,Oceania
+63,Chips,1479888631733,Parker - DuBuque LLC,Games,813,708€,4.74,354,11,1598519615678,Europe
+63,Chips,1479888631733,Parker - DuBuque LLC,Games,813,708€,3.12,355,254,1491769255380,Oceania
+63,Chips,1479888631733,Parker - DuBuque LLC,Games,813,708€,3.12,355,466,1587334909553,Oceania
+584,Bike,1428564792260,"Kris, Tromp and Mertz LLC",Grocery,814,11421€,4.26,551,37,1410496606807,Oceania
+895,Cheese,1586274999032,"Muller, Bednar and Vandervort Group",Clothing,817,12780€,1.53,588,589,1459414803260,America
+895,Cheese,1586274999032,"Muller, Bednar and Vandervort Group",Clothing,817,12780€,1.53,588,9,1534086565367,Africa
+895,Cheese,1586274999032,"Muller, Bednar and Vandervort Group",Clothing,817,12780€,1.53,588,352,1578669638600,Europe
+895,Cheese,1586274999032,"Muller, Bednar and Vandervort Group",Clothing,817,12780€,1.79,974,554,1564834863968,Europe
+895,Cheese,1586274999032,"Muller, Bednar and Vandervort Group",Clothing,817,12780€,1.79,974,85,1597744259000,America
+707,Mouse,1523948237006,Koch and Sons Group,Sports,818,7975€,0.67,794,538,1541741831096,Europe
+423,Hat,1517447403710,Kuhic - Williamson and Sons,Tools,819,9523€,3.74,434,65,1407014548103,Africa
+423,Hat,1517447403710,Kuhic - Williamson and Sons,Tools,819,9523€,3.74,434,478,1588531143159,America
+774,Car,1575874712565,Auer - Hayes Group,Computers,823,5644€,4.84,169,168,1466460586635,Africa
+579,Fish,1452112299609,Skiles Group Group,Computers,828,154€,3.81,2,425,1645750739402,America
+579,Fish,1452112299609,Skiles Group Group,Computers,828,154€,2.48,177,490,1403475636067,America
+296,Car,1534841198922,Tremblay - Ullrich and Sons,Beauty,833,3655€,3.07,381,729,1412748915501,Europe
+296,Car,1534841198922,Tremblay - Ullrich and Sons,Beauty,833,3655€,3.07,381,789,1531740864537,Africa
+296,Car,1534841198922,Tremblay - Ullrich and Sons,Beauty,833,3655€,3.07,381,953,1603701392668,Oceania
+296,Car,1534841198922,Tremblay - Ullrich and Sons,Beauty,833,3655€,0.1,418,211,1409492189078,America
+296,Car,1534841198922,Tremblay - Ullrich and Sons,Beauty,833,3655€,0.1,418,148,1446868081608,America
+296,Car,1534841198922,Tremblay - Ullrich and Sons,Beauty,833,3655€,4.99,872,117,1478904324936,Africa
+291,Shirt,1631514673663,Hagenes - Marvin and Sons,Garden,834,1230€,4.15,712,90,1411372309102,America
+163,Gloves,1575146865416,Hoeger - Fadel Group,Automotive,835,342€,1.21,987,74,1480588046464,Oceania
+918,Gloves,1623957013014,"Wintheiser, Upton and Kunze LLC",Electronics,836,415€,0.92,818,391,1557050803376,Africa
+435,Cheese,1524660265841,Beier and Sons and Sons,Sports,837,5760€,3.43,715,888,1549147659868,Asia
+70,Bike,1628601361537,Streich - Mitchell Group,Beauty,838,4200€,3.84,465,256,1395888976827,America
+674,Cheese,1521326715045,"Koepp, Green and Schneider LLC",Tools,842,120€,2.52,471,467,1482120856299,Europe
+674,Cheese,1521326715045,"Koepp, Green and Schneider LLC",Tools,842,120€,2.52,471,395,1533707018047,Africa
+547,Ball,1446178293032,"Powlowski, Hyatt and Adams LLC",Shoes,843,1500€,0.3,45,394,1388600458712,Europe
+547,Ball,1446178293032,"Powlowski, Hyatt and Adams LLC",Shoes,843,1500€,1.84,501,213,1530675256187,Asia
+701,Shirt,1530718392504,"Luettgen, Durgan and Bednar Inc",Sports,846,10192€,4.1,147,39,1444381593363,Africa
+701,Shirt,1530718392504,"Luettgen, Durgan and Bednar Inc",Sports,846,10192€,2.64,197,461,1491957170101,Africa
+193,Shoes,1637196586704,Quigley Inc LLC,Toys,847,4836€,3.07,136,385,1452020366290,Oceania
+193,Shoes,1637196586704,Quigley Inc LLC,Toys,847,4836€,3.07,136,178,1504857190507,Oceania
+193,Shoes,1637196586704,Quigley Inc LLC,Toys,847,4836€,1.67,468,718,1420394946230,Europe
+193,Shoes,1637196586704,Quigley Inc LLC,Toys,847,4836€,1.67,468,619,1639190323129,Europe
+956,Gloves,1537750545639,"Quigley, Bauch and Vandervort Inc",Music,848,1170€,2.33,457,844,1464949875087,Oceania
+956,Gloves,1537750545639,"Quigley, Bauch and Vandervort Inc",Music,848,1170€,2.33,457,921,1522335639757,Asia
+120,Table,1444359263637,"Dicki, Lynch and Flatley LLC",Automotive,850,1827€,4.72,695,309,1426733994042,America
+120,Table,1444359263637,"Dicki, Lynch and Flatley LLC",Automotive,850,1827€,4.72,695,600,1555362929977,Oceania
+559,Bacon,1546318195235,Jones LLC LLC,Home,854,11780€,1.08,235,691,1400233475243,America
+83,Cheese,1490060703164,Hessel - Sipes Group,Garden,856,4081€,4.05,312,215,1490275078001,Africa
+83,Cheese,1490060703164,Hessel - Sipes Group,Garden,856,4081€,4.05,312,823,1586001473434,Africa
+663,Shoes,1480683825007,"Kautzer, Purdy and Carroll Inc",Baby,857,300€,0.27,51,758,1493721537666,Africa
+663,Shoes,1480683825007,"Kautzer, Purdy and Carroll Inc",Baby,857,300€,0.27,51,736,1528589968909,Africa
+663,Shoes,1480683825007,"Kautzer, Purdy and Carroll Inc",Baby,857,300€,1.07,263,96,1446488182663,Africa
+663,Shoes,1480683825007,"Kautzer, Purdy and Carroll Inc",Baby,857,300€,1.07,263,165,1478045413949,America
+25,Shirt,1558546579463,Thiel - Kuphal and Sons,Beauty,858,1600€,4.18,13,624,1472073448608,Asia
+25,Shirt,1558546579463,Thiel - Kuphal and Sons,Beauty,858,1600€,2.3,251,760,1402472667854,Asia
+25,Shirt,1558546579463,Thiel - Kuphal and Sons,Beauty,858,1600€,2.3,251,795,1512023123112,Europe
+25,Shirt,1558546579463,Thiel - Kuphal and Sons,Beauty,858,1600€,2.3,251,400,1617004201919,Asia
+25,Shirt,1558546579463,Thiel - Kuphal and Sons,Beauty,858,1600€,2.95,418,211,1409492189078,America
+25,Shirt,1558546579463,Thiel - Kuphal and Sons,Beauty,858,1600€,2.95,418,148,1446868081608,America
+670,Shirt,1469638692257,"Schamberger, Yundt and Rolfson LLC",Toys,859,2646€,4.63,249,273,1525754760367,Oceania
+670,Shirt,1469638692257,"Schamberger, Yundt and Rolfson LLC",Toys,859,2646€,3.28,936,734,1537122685874,Asia
+570,Salad,1424905084779,Emard - Ankunding Group,Kids,860,54€,0.34,882,43,1427621169467,Europe
+570,Salad,1424905084779,Emard - Ankunding Group,Kids,860,54€,0.34,882,22,1568603918915,Europe
+570,Salad,1424905084779,Emard - Ankunding Group,Kids,860,54€,0.34,882,88,1578371905643,Europe
+441,Tuna,1580662776725,Tremblay - Heidenreich and Sons,Home,862,1953€,4.54,257,561,1644314520163,Europe
+441,Tuna,1580662776725,Tremblay - Heidenreich and Sons,Home,862,1953€,0.24,794,538,1541741831096,Europe
+728,Bike,1568314764523,Beahan - Tromp Inc,Outdoors,863,7052€,2.58,923,31,1601615057800,Africa
+903,Cheese,1447077037113,"Beier, McLaughlin and Schimmel LLC",Music,867,8393€,3.77,177,490,1403475636067,America
+903,Cheese,1447077037113,"Beier, McLaughlin and Schimmel LLC",Music,867,8393€,3.49,464,282,1422193199692,Africa
+903,Cheese,1447077037113,"Beier, McLaughlin and Schimmel LLC",Music,869,1534€,3.77,177,490,1403475636067,America
+903,Cheese,1447077037113,"Beier, McLaughlin and Schimmel LLC",Music,869,1534€,3.49,464,282,1422193199692,Africa
+290,Fish,1392844909345,Pacocha LLC Inc,Industrial,872,5390€,4.13,508,528,1493748582496,America
+290,Fish,1392844909345,Pacocha LLC Inc,Industrial,872,5390€,1.58,628,161,1619377981280,Oceania
+290,Fish,1392844909345,Pacocha LLC Inc,Industrial,872,5390€,3.14,628,161,1619377981280,Oceania
+227,Shirt,1474292895497,Greenholt Group and Sons,Toys,873,3619€,3.72,2,425,1645750739402,America
+371,Gloves,1403185416154,Terry - Tromp Group,Shoes,880,720€,2.27,628,161,1619377981280,Oceania
+142,Ball,1612185773244,Emmerich and Sons Group,Home,882,4482€,1.88,961,730,1546907248200,America
+690,Gloves,1508960007342,McCullough LLC and Sons,Electronics,883,4158€,3.73,480,56,1644906391200,America
+690,Gloves,1508960007342,McCullough LLC and Sons,Electronics,883,4158€,1.76,962,842,1618787970558,Oceania
+316,Ball,1548816981208,"Jaskolski, Ferry and Wisoky and Sons",Home,884,4800€,4.3,818,391,1557050803376,Africa
+155,Towels,1446252132883,Anderson - Kilback Group,Shoes,885,10197€,3.41,933,433,1537529763421,Africa
+727,Fish,1552569896018,Towne and Sons LLC,Garden,886,2401€,2.83,80,673,1420620735145,Africa
+727,Fish,1552569896018,Towne and Sons LLC,Garden,886,2401€,2.83,80,768,1583511656019,Europe
+727,Fish,1552569896018,Towne and Sons LLC,Garden,886,2401€,0.41,746,522,1479356964799,Oceania
+547,Ball,1446178293032,"Powlowski, Hyatt and Adams LLC",Shoes,891,2400€,0.3,45,394,1388600458712,Europe
+547,Ball,1446178293032,"Powlowski, Hyatt and Adams LLC",Shoes,891,2400€,1.84,501,213,1530675256187,Asia
+736,Hat,1523259841647,DuBuque - Roob Group,Music,894,522€,3.3,923,31,1601615057800,Africa
+734,Fish,1538302114587,Schneider Group Group,Beauty,903,3848€,2.0,414,902,1482571891211,Africa
+734,Fish,1538302114587,Schneider Group Group,Beauty,903,3848€,0.44,972,306,1636587457076,America
+62,Car,1561545120489,Kessler and Sons LLC,Home,904,4074€,0.55,271,116,1513341497771,America
+62,Car,1561545120489,Kessler and Sons LLC,Home,904,4074€,3.13,524,599,1476035330550,Europe
+558,Computer,1607807557705,Cronin and Sons Group,Kids,905,7980€,3.29,516,372,1514905769279,Asia
+558,Computer,1607807557705,Cronin and Sons Group,Kids,905,7980€,2.59,914,606,1398987058578,America
+558,Computer,1607807557705,Cronin and Sons Group,Kids,905,7980€,2.59,914,412,1402592756318,Africa
+558,Computer,1607807557705,Cronin and Sons Group,Kids,905,7980€,2.59,914,899,1412562092736,America
+382,Hat,1550538200889,"Treutel, Bruen and Hagenes Inc",Movies,906,364€,2.72,629,214,1426822235368,Europe
+382,Hat,1550538200889,"Treutel, Bruen and Hagenes Inc",Movies,906,364€,2.72,629,188,1451186095981,Asia
+382,Hat,1550538200889,"Treutel, Bruen and Hagenes Inc",Movies,906,364€,0.0,693,689,1606890310213,Europe
+450,Sausages,1461952596751,"Graham, Schimmel and Hegmann Inc",Games,907,5795€,3.74,427,292,1462594375288,Europe
+820,Bacon,1549002740411,"Durgan, Waters and Tremblay and Sons",Garden,908,4536€,0.77,242,774,1523955752498,Africa
+820,Bacon,1549002740411,"Durgan, Waters and Tremblay and Sons",Garden,908,4536€,3.8,464,282,1422193199692,Africa
+186,Soap,1583015974874,"Gusikowski, Dach and Heidenreich and Sons",Home,909,7695€,0.28,563,849,1590505742258,Asia
+582,Computer,1447509702386,Reynolds and Sons Inc,Electronics,914,710€,2.39,863,279,1416371843743,Oceania
+582,Computer,1447509702386,Reynolds and Sons Inc,Electronics,914,710€,2.39,863,307,1630548657687,Africa
+570,Salad,1424905084779,Emard - Ankunding Group,Kids,917,7830€,0.34,882,43,1427621169467,Europe
+570,Salad,1424905084779,Emard - Ankunding Group,Kids,917,7830€,0.34,882,22,1568603918915,Europe
+570,Salad,1424905084779,Emard - Ankunding Group,Kids,917,7830€,0.34,882,88,1578371905643,Europe
+348,Hat,1587114635250,Smith and Sons and Sons,Outdoors,918,7676€,2.2,800,146,1468557774487,America
+348,Hat,1587114635250,Smith and Sons and Sons,Outdoors,918,7676€,2.2,800,813,1506724552252,Asia
+348,Hat,1587114635250,Smith and Sons and Sons,Outdoors,918,7676€,1.46,963,630,1427658258718,Europe
+590,Salad,1502112804173,Senger Inc LLC,Books,920,2115€,4.28,8,835,1496174301262,Asia
+590,Salad,1502112804173,Senger Inc LLC,Books,920,2115€,4.28,8,26,1542649009016,Europe
+590,Salad,1502112804173,Senger Inc LLC,Books,920,2115€,4.28,8,316,1580279408720,Oceania
+590,Salad,1502112804173,Senger Inc LLC,Books,920,2115€,4.28,8,84,1610970370063,Asia
+141,Ball,1643720955932,Waters - Pfannerstill Group,Music,923,7320€,0.81,348,545,1419357088223,Africa
+866,Hat,1566865844956,Boyle - Barrows Inc,Tools,925,2597€,4.0,563,849,1590505742258,Asia
+573,Keyboard,1461442427295,Leffler Group Group,Jewelery,930,7140€,2.27,911,358,1450130359544,Asia
+573,Keyboard,1461442427295,Leffler Group Group,Jewelery,930,7140€,2.27,911,993,1574568541516,Africa
+573,Keyboard,1461442427295,Leffler Group Group,Jewelery,930,7140€,0.15,973,167,1533823309080,Europe
+945,Car,1431087617368,"Swaniawski, Veum and Bailey LLC",Home,931,7866€,0.49,864,1,1618512203586,Asia
+212,Car,1434288038213,Christiansen - Reichert and Sons,Shoes,933,3488€,1.99,235,691,1400233475243,America
+212,Car,1434288038213,Christiansen - Reichert and Sons,Shoes,933,3488€,2.34,802,134,1494467025137,Asia
+461,Cheese,1393654964889,Jacobi - Kuphal and Sons,Baby,934,7298€,3.72,527,233,1445311344196,America
+461,Cheese,1393654964889,Jacobi - Kuphal and Sons,Baby,934,7298€,3.72,527,70,1458070316743,Asia
+461,Cheese,1393654964889,Jacobi - Kuphal and Sons,Baby,934,7298€,3.72,527,714,1532209846723,Europe
+403,Towels,1548186571342,Nikolaus LLC Group,Clothing,935,3220€,3.46,804,611,1416536027015,Oceania
+403,Towels,1548186571342,Nikolaus LLC Group,Clothing,935,3220€,3.46,804,667,1622369277967,Africa
+225,Hat,1635964142479,Armstrong - Johns Group,Beauty,936,8712€,0.63,682,98,1647542479923,Asia
+835,Shoes,1605694614140,Beahan Group Group,Clothing,938,4757€,2.76,381,729,1412748915501,Europe
+835,Shoes,1605694614140,Beahan Group Group,Clothing,938,4757€,2.76,381,789,1531740864537,Africa
+835,Shoes,1605694614140,Beahan Group Group,Clothing,938,4757€,2.76,381,953,1603701392668,Oceania
+190,Pants,1539919148261,Glover - Stanton and Sons,Health,943,4565€,2.05,850,831,1584095770274,Africa
+696,Salad,1582460859576,"Trantow, Breitenberg and Kovacek and Sons",Books,945,5166€,0.83,411,417,1585693350613,Oceania
+911,Towels,1616537645976,Stehr - Murray and Sons,Automotive,947,6528€,0.14,605,482,1391260947679,Oceania
+528,Gloves,1590546237294,Kunde and Sons and Sons,Music,948,9870€,2.99,683,950,1607208248525,Asia
+465,Fish,1408876136138,Grady - Klein Inc,Garden,955,4664€,3.57,504,234,1569981548120,Europe
+465,Fish,1408876136138,Grady - Klein Inc,Garden,955,4664€,3.57,504,652,1605178091217,Asia
+550,Towels,1620693777811,DuBuque and Sons and Sons,Music,956,3120€,2.18,760,960,1434804491558,America
+550,Towels,1620693777811,DuBuque and Sons and Sons,Music,956,3120€,2.18,760,540,1588150723325,Africa
+550,Towels,1620693777811,DuBuque and Sons and Sons,Music,956,3120€,0.81,945,231,1631690804263,Europe
+858,Ball,1528310121053,Daniel and Sons LLC,Clothing,958,5335€,3.44,99,381,1512059386113,America
+895,Cheese,1586274999032,"Muller, Bednar and Vandervort Group",Clothing,960,5418€,1.53,588,589,1459414803260,America
+895,Cheese,1586274999032,"Muller, Bednar and Vandervort Group",Clothing,960,5418€,1.53,588,9,1534086565367,Africa
+895,Cheese,1586274999032,"Muller, Bednar and Vandervort Group",Clothing,960,5418€,1.53,588,352,1578669638600,Europe
+895,Cheese,1586274999032,"Muller, Bednar and Vandervort Group",Clothing,960,5418€,1.79,974,554,1564834863968,Europe
+895,Cheese,1586274999032,"Muller, Bednar and Vandervort Group",Clothing,960,5418€,1.79,974,85,1597744259000,America
+916,Bike,1599393378777,Kirlin - Klein and Sons,Health,962,1566€,2.04,250,750,1559758892194,Europe
+916,Bike,1599393378777,Kirlin - Klein and Sons,Health,962,1566€,2.04,250,862,1568791729850,Oceania
+916,Bike,1599393378777,Kirlin - Klein and Sons,Health,962,1566€,0.8,600,300,1535879622979,Oceania
+351,Shoes,1418933176226,"Quitzon, Heller and Williamson LLC",Outdoors,963,1490€,4.15,264,455,1537136975609,Africa
+866,Hat,1566865844956,Boyle - Barrows Inc,Tools,965,836€,4.0,563,849,1590505742258,Asia
+842,Chicken,1650138915892,"Gorczany, Nolan and Watsica Inc",Kids,966,2240€,3.83,853,779,1458295962463,Asia
+842,Chicken,1650138915892,"Gorczany, Nolan and Watsica Inc",Kids,966,2240€,3.83,853,801,1650276649757,Africa
+63,Chips,1479888631733,Parker - DuBuque LLC,Games,970,3105€,4.74,354,11,1598519615678,Europe
+63,Chips,1479888631733,Parker - DuBuque LLC,Games,970,3105€,3.12,355,254,1491769255380,Oceania
+63,Chips,1479888631733,Parker - DuBuque LLC,Games,970,3105€,3.12,355,466,1587334909553,Oceania
+978,Shoes,1406032813681,Cummings - Sporer LLC,Music,971,11004€,4.18,660,329,1420123892588,America
+978,Shoes,1406032813681,Cummings - Sporer LLC,Music,971,11004€,4.18,660,199,1608134213616,Africa
+943,Soap,1416670249045,"Monahan, Fadel and Jones Group",Books,973,9310€,2.1,366,892,1522873348189,Oceania
+943,Soap,1416670249045,"Monahan, Fadel and Jones Group",Books,973,9310€,2.1,366,809,1605924566430,Europe
+943,Soap,1416670249045,"Monahan, Fadel and Jones Group",Books,973,9310€,2.1,366,296,1607426902028,Asia
+326,Towels,1446409226761,Thiel - Medhurst and Sons,Movies,974,564€,3.78,444,251,1643160383851,Africa
+326,Towels,1446409226761,Thiel - Medhurst and Sons,Movies,974,564€,4.35,880,819,1605172780933,Europe
+751,Soap,1607610205185,Grady - Cartwright LLC,Garden,977,4148€,0.21,718,289,1496544448296,Africa
+751,Soap,1607610205185,Grady - Cartwright LLC,Garden,977,4148€,0.21,718,198,1563285192023,Oceania
+611,Keyboard,1616584261880,Watsica - Prohaska Inc,Beauty,978,3045€,1.79,312,215,1490275078001,Africa
+611,Keyboard,1616584261880,Watsica - Prohaska Inc,Beauty,978,3045€,1.79,312,823,1586001473434,Africa
+611,Keyboard,1616584261880,Watsica - Prohaska Inc,Beauty,978,3045€,4.01,989,345,1434597387618,Oceania
+611,Keyboard,1616584261880,Watsica - Prohaska Inc,Beauty,978,3045€,4.01,989,825,1448531801009,Africa
+611,Keyboard,1616584261880,Watsica - Prohaska Inc,Beauty,978,3045€,4.01,989,232,1498232225436,Africa
+611,Keyboard,1616584261880,Watsica - Prohaska Inc,Beauty,978,3045€,4.01,989,916,1552889452805,Europe
+611,Keyboard,1616584261880,Watsica - Prohaska Inc,Beauty,978,3045€,4.01,989,777,1570778232829,Asia
+40,Shoes,1495892069753,"Torp, Block and Marvin LLC",Health,980,3750€,3.83,346,357,1508639609864,Asia
+40,Shoes,1495892069753,"Torp, Block and Marvin LLC",Health,980,3750€,3.83,346,986,1541934995763,Africa
+718,Tuna,1406268698849,"Okuneva, Reichert and Altenwerth Group",Tools,981,7236€,3.91,284,243,1477178830690,Africa
+707,Mouse,1523948237006,Koch and Sons Group,Sports,982,8064€,0.67,794,538,1541741831096,Europe
+795,Hat,1459968504717,"Dickens, Murphy and Nikolaus and Sons",Automotive,984,3808€,2.83,56,647,1395515714130,Africa
+795,Hat,1459968504717,"Dickens, Murphy and Nikolaus and Sons",Automotive,984,3808€,2.83,56,711,1411210365123,Asia
+795,Hat,1459968504717,"Dickens, Murphy and Nikolaus and Sons",Automotive,984,3808€,2.83,56,363,1494906493168,America
+795,Hat,1459968504717,"Dickens, Murphy and Nikolaus and Sons",Automotive,984,3808€,2.83,56,932,1569293802465,America
+795,Hat,1459968504717,"Dickens, Murphy and Nikolaus and Sons",Automotive,984,3808€,4.02,635,769,1465215445449,Europe
+795,Hat,1459968504717,"Dickens, Murphy and Nikolaus and Sons",Automotive,984,3808€,4.02,635,933,1584821271650,Asia
+795,Hat,1459968504717,"Dickens, Murphy and Nikolaus and Sons",Automotive,984,3808€,3.12,870,340,1543573983673,America
+15,Mouse,1618977022581,Bahringer Inc LLC,Beauty,987,5662€,3.83,283,147,1483830325822,America
+15,Mouse,1618977022581,Bahringer Inc LLC,Beauty,987,5662€,3.83,283,874,1565030183358,Europe
+15,Mouse,1618977022581,Bahringer Inc LLC,Beauty,987,5662€,0.42,322,72,1567251421046,Africa
+15,Mouse,1618977022581,Bahringer Inc LLC,Beauty,987,5662€,0.42,322,683,1610571334588,Oceania
+15,Mouse,1618977022581,Bahringer Inc LLC,Beauty,987,5662€,2.84,987,74,1480588046464,Oceania
+467,Pizza,1520192983400,Rolfson and Sons and Sons,Industrial,989,2592€,1.78,816,875,1441953783149,Europe
+364,Keyboard,1636025432296,Hegmann and Sons and Sons,Toys,990,1794€,0.71,852,166,1457301217274,Asia
+641,Table,1404944414199,Haag - Schimmel Group,Clothing,992,550€,3.19,412,505,1590827676516,Oceania
+641,Table,1404944414199,Haag - Schimmel Group,Clothing,992,550€,0.62,954,190,1428167840583,Africa
+641,Table,1404944414199,Haag - Schimmel Group,Clothing,992,550€,0.62,954,653,1497112920233,Africa
+641,Table,1404944414199,Haag - Schimmel Group,Clothing,992,550€,0.62,954,746,1512690735683,Africa
+378,Pizza,1449972360904,"Walsh, Bradtke and Roob Group",Jewelery,993,6497€,4.84,227,477,1483461450289,America
+378,Pizza,1449972360904,"Walsh, Bradtke and Roob Group",Jewelery,993,6497€,4.84,227,169,1603185314935,America
+378,Pizza,1449972360904,"Walsh, Bradtke and Roob Group",Jewelery,993,6497€,4.84,227,968,1649349201432,Africa
+378,Pizza,1449972360904,"Walsh, Bradtke and Roob Group",Jewelery,993,6497€,4.26,364,94,1464556217394,Asia
+912,Salad,1622735247002,Ullrich and Sons Group,Movies,994,3905€,1.87,856,283,1462191723396,Africa
+490,Salad,1538268658521,Dach - Abshire LLC,Grocery,996,2438€,4.81,268,130,1580490918365,Oceania
+67,Sausages,1614155331254,Crist and Sons Group,Movies,998,10735€,1.28,400,53,1392827042174,America
+67,Sausages,1614155331254,Crist and Sons Group,Movies,998,10735€,1.28,400,534,1525942541745,Africa
+67,Sausages,1614155331254,Crist and Sons Group,Movies,998,10735€,1.28,400,439,1592559997816,Europe
+67,Sausages,1614155331254,Crist and Sons Group,Movies,998,10735€,2.44,876,742,1511433674279,America
+67,Sausages,1614155331254,Crist and Sons Group,Movies,998,10735€,2.44,876,229,1578732345807,Europe
+67,Sausages,1614155331254,Crist and Sons Group,Movies,998,10735€,2.44,876,144,1620372004984,Oceania
+323,Towels,1528044699088,"Johnson, Bergstrom and Mayert LLC",Outdoors,999,3384€,3.4,405,137,1447910484048,Oceania
+323,Towels,1528044699088,"Johnson, Bergstrom and Mayert LLC",Outdoors,999,3384€,3.4,405,277,1516813366045,Africa
+323,Towels,1528044699088,"Johnson, Bergstrom and Mayert LLC",Outdoors,999,3384€,3.4,405,252,1548457880227,Oceania
+323,Towels,1528044699088,"Johnson, Bergstrom and Mayert LLC",Outdoors,999,3384€,3.4,405,565,1567878701420,Oceania
+323,Towels,1528044699088,"Johnson, Bergstrom and Mayert LLC",Outdoors,999,3384€,3.4,405,247,1607426343749,Oceania
+174,Shirt,1481389796678,Botsford and Sons Group,Health,1000,260€,0.91,704,382,1582145270525,Oceania
+174,Shirt,1481389796678,Botsford and Sons Group,Health,1000,260€,0.91,704,250,1617223004308,Oceania
